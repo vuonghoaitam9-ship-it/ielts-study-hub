@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body {
+    font-family: Inter, "Segoe UI", Roboto, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+}
+
+/* Custom sleek scrollbars for IDP split-screen & transcript panes */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.55);
+  border-radius: 9999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.8);
+}

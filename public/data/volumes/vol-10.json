@@ -1,0 +1,3167 @@
+{
+  "volNumber": 10,
+  "title": "Volume 10 — Digital Reading (Test 1 – Test 6) & Pending Listening/Audio",
+  "description": "Đã trích xuất trọn vẹn 6 đề Reading + 40 đáp án từ VOL 10 KEY.pdf; giữ khung trống minh bạch cho Listening/Audio/Transcript/Writing đang thiếu ở nguồn.",
+  "tests": [
+    {
+      "id": "vol-10-test-1",
+      "volNumber": 10,
+      "testNumber": 1,
+      "title": "Vol 10 — Test 1",
+      "reading": {
+        "status": "ready",
+        "sourceFiles": [
+          "VOL 10 KEY.pdf"
+        ],
+        "originalPdfUrl": "/vol-archive/VOL%2010%20KEY.pdf",
+        "passages": [
+          {
+            "id": "passage-1",
+            "passageNumber": 1,
+            "title": "A Brief History of Glassmaking",
+            "paragraphs": [
+              {
+                "text": "The first known glass objects can be traced back to the ancient Eastern empires, in about 3500"
+              },
+              {
+                "text": "BC, building on existing knowledge about glazes, a new material, including sand and metal"
+              },
+              {
+                "text": "oxides, was developed. This material – glass – was initially used for small pieces of jewellery"
+              },
+              {
+                "text": "and inlays in small statues. Then it was used increasingly for vessels made to hold perfumes,"
+              },
+              {
+                "text": "oils, and fragrances. Transparency was not a characteristic of these works. Of greater interest"
+              },
+              {
+                "text": "to the early glass artisans was the ability to reproduce the colour-and-structures of highly"
+              },
+              {
+                "text": "valued semi-precious stones."
+              },
+              {
+                "text": "By about 450 BC, artisans in the glass workshops of the Persian Empire had learned to apply"
+              },
+              {
+                "text": "other techniques to glassmaking, probably producing vessels of considerable size on a turning"
+              },
+              {
+                "text": "wheel. Cutting techniques were also used for some of their complex decorations. Meanwhile,"
+              },
+              {
+                "text": "the Greeks still concentrated their energies on ceramics, and used glass simply for coloured"
+              },
+              {
+                "text": "inlays in sculptures – especially for magnificent monumental statues in public sites."
+              },
+              {
+                "text": "However, in the 1st and 2nd centuries BC, an industry of luxury glass items of various forms did"
+              },
+              {
+                "text": "emerge in former Greek areas strongly influenced by eastern cultures. This industry was in turn"
+              },
+              {
+                "text": "to have a profound effect on the glass art of the early-Roman Empire."
+              },
+              {
+                "text": "The rise of the Roman Empire (1st century BC) was accompanied by an increase in glass"
+              },
+              {
+                "text": "production in the Mediterranean region. Initially glass retained its status as a luxury material –"
+              },
+              {
+                "text": "indeed from the earliest years of its development it had been generally considered equal to"
+              },
+              {
+                "text": "precious stones and valuable metals. Coloured glass bowls, mosaic-glass plates, and glass"
+              },
+              {
+                "text": "vessels with gold décor were very popular with the wealthy. However, as the empire expanded,"
+              },
+              {
+                "text": "the steps from luxury to mass production, and from decorative objects to vessels for daily use,"
+              },
+              {
+                "text": "were gradually taken."
+              },
+              {
+                "text": "The grounding for this was the Syrian glassmakers’ discovery at the beginning of the 1st"
+              },
+              {
+                "text": "century BC that glass, when melted, can be made into shapes by blowing down a hollow metal"
+              },
+              {
+                "text": "tube. Thus it became possible for these craftsmen to produce a large variety of vessels for"
+              },
+              {
+                "text": "different uses – from simple bottles to more decorative and complex pieces. Starting with the"
+              },
+              {
+                "text": "leading Syrian glassworks, glass as a manufactured product spread across the entire area of"
+              },
+              {
+                "text": "Roman rule. With mass production, glass increasingly became a trade item – of no minor"
+              },
+              {
+                "text": "importance in convincing the so-called ‘barbarians’ from the border areas such as Germany of"
+              },
+              {
+                "text": "the superiority of Roman civilization."
+              },
+              {
+                "text": "The well-planned network of roads in the Roman Empire ensured that the new shapes of"
+              },
+              {
+                "text": "manufactured glass objects, and the newly developed techniques used to produce them, were"
+              },
+              {
+                "text": "quickly spread and adopted. Wherever suitable materials were found, the same or very similar"
+              },
+              {
+                "text": "glass forms, with hardly any variation in quality, were made. This is true of the Italian peninsula,"
+              },
+              {
+                "text": "including Rome itself, where numerous workshops producing high-quality goods existed, as"
+              },
+              {
+                "text": "well as of Spain and along the shores of the Black Sea. Because of their particularly well-suited"
+              },
+              {
+                "text": "sand and large deposits of soda ash, however, the main centres of glass production remained"
+              },
+              {
+                "text": "in Syria, Mesopotamia, and Lower Egypt."
+              },
+              {
+                "text": "Starting in the 1st century AD, small vessels and utensils in Roman households came to be"
+              },
+              {
+                "text": "made predominantly of wheel-blown glass, but also of glass. Beside the large number of"
+              },
+              {
+                "text": "everyday small vessels for storing fragrances and medicinal extracts, there were bowls in all"
+              },
+              {
+                "text": "shapes – some formed on the humming-wheel; some blown – plates, lamps, and much more."
+              },
+              {
+                "text": "Even vessels technically very difficult to produce have been found, such as playful bottles in"
+              },
+              {
+                "text": "the shape of birds or other animals."
+              },
+              {
+                "text": "Whereas colour characterised the appearance of early Roman glass – in keeping with the"
+              },
+              {
+                "text": "Greek tradition – from the 2nd century AD, the transparency and also lightness of the material"
+              },
+              {
+                "text": "as well as its shiny surface, came to be valued more. Usually it was left in its natural state,"
+              },
+              {
+                "text": "typical are vessels having a blue-green coloration of varying intensity. There was, though, an"
+              },
+              {
+                "text": "increasing tendency to apply intricate details, and a few coloured accents can be observed."
+              },
+              {
+                "text": "Different coloured glass was also used for simple handles, or for one or two threads or strings"
+              },
+              {
+                "text": "of extra glass wrapped around the rims to give emphasis to the vessels’ mouths."
+              },
+              {
+                "text": "In the late Roman period (3rd and 4th centuries AD) the tendency towards complexity was also"
+              },
+              {
+                "text": "reflected in the growing popularity of cut and engraved work. Blowing and the use of moulds"
+              },
+              {
+                "text": "were developed in new directions, surpassing the designs of the early period of glass-blowing."
+              },
+              {
+                "text": "Later vessels such as the so-called shellfish beaker represented a climax in glassmaking of the"
+              },
+              {
+                "text": "later Roman period: fish and similar objects were blown separately, formed with special tools,"
+              },
+              {
+                "text": "and melted onto the walls of simply-shaped vessels."
+              },
+              {
+                "text": "Roman glass art continued to be exemplary, and much of the world-famous Venetian glass art"
+              },
+              {
+                "text": "from the early 15th century was based on the revival of such methods as thread-glass"
+              },
+              {
+                "text": "decoration or mosaic glass. In fact, most methods of glassmaking and glass-decoration"
+              },
+              {
+                "text": "changed very little in the centuries following the Roman Empire. This is true of the"
+              },
+              {
+                "text": "development of European glass art, even up to the early 19th century. Until chemistry became"
+              },
+              {
+                "text": "an established scientific discipline in the second quarter of that century, glassmaking"
+              },
+              {
+                "text": "technology underwent only minor improvements. Even now, however, several of the"
+              },
+              {
+                "text": "techniques used in the Roman Empire remain a puzzle that modern glass technicians cannot"
+              },
+              {
+                "text": "resolve."
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1-1",
+            "questionNumber": 1,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–6",
+            "prompt": "By about 450 BC, glass had become as important as ceramics in Greece.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-2",
+            "questionNumber": 2,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–6",
+            "prompt": "The glassmakers of the early Roman Empire made copies of luxury Greek items.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-3",
+            "questionNumber": 3,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–6",
+            "prompt": "With the rise of the Roman Empire, glass objects became more common.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-4",
+            "questionNumber": 4,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–6",
+            "prompt": "Syrian glassmakers created many different types of objects by blowing glass.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-5",
+            "questionNumber": 5,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–6",
+            "prompt": "The Roman road network provided a safer way of transporting glass than previous methods.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-6",
+            "questionNumber": 6,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–6",
+            "prompt": "Roman glass vessels produced in the 1st century AD were restricted to simple designs.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-7",
+            "questionNumber": 7,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● greater emphasis on glass having a 7 __________, lightness and transparency",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-8",
+            "questionNumber": 8,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● complex 8 __________ were often added, as well as coloured accents",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-9",
+            "questionNumber": 9,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● extra threads of glass used to highlight the 9 __________of vessels",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-10",
+            "questionNumber": 10,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● high point of later Roman glassmaking can be seen in containers like the 10 __________",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-11",
+            "questionNumber": 11,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● from the 15th century, Venetians used old techniques like 11 __________ and thread-glass",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-12",
+            "questionNumber": 12,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● acceptance of 12 __________ as a subject for serious study in the 19th century led to",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-13",
+            "questionNumber": 13,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "● some methods dating back to the Roman Empire continue to be a 13 __________ for",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-14",
+            "questionNumber": 14,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "The black-footed ferret shares most characteristics with its relative, the 14__________.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-15",
+            "questionNumber": 15,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "North American ferrets are thought to have originally come from 15__________.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-16",
+            "questionNumber": 16,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+            "prompt": "The 16__________ is the black-footed ferret’s primary source of food throughout their time in",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-17",
+            "questionNumber": 17,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct letter, A–H, in boxes 17–22.",
+            "prompt": "An appeal for evidence of black-footed ferrets was published.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-18",
+            "questionNumber": 18,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct letter, A–H, in boxes 17–22.",
+            "prompt": "A scheme for releasing captive-born black-footed ferrets into the wild was launched.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-19",
+            "questionNumber": 19,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct letter, A–H, in boxes 17–22.",
+            "prompt": "The black-footed ferret first appeared in a scientific work.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-20",
+            "questionNumber": 20,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct letter, A–H, in boxes 17–22.",
+            "prompt": "The discovery of a single black-footed ferret led to renewed hope for the species.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-21",
+            "questionNumber": 21,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct letter, A–H, in boxes 17–22.",
+            "prompt": "North America’s last wild-born black-footed ferrets were taken into captivity.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-22",
+            "questionNumber": 22,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct letter, A–H, in boxes 17–22.",
+            "prompt": "Efforts to save the black-footed ferret were officially announced as having failed.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-27",
+            "questionNumber": 27,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Complete the summary using the list of words, A-J, below.",
+            "prompt": "far enough. They want it to include other 27________ that are judged to demonstrate",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-28",
+            "questionNumber": 28,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Complete the summary using the list of words, A-J, below.",
+            "prompt": "understanding. One country introduced 28________ which went some way to protecting the",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-29",
+            "questionNumber": 29,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Complete the summary using the list of words, A-J, below.",
+            "prompt": "apes. As a result, anyone who is interested in using apes for 29________ must first obtain the",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-30",
+            "questionNumber": 30,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Complete the summary using the list of words, A-J, below.",
+            "prompt": "come at the expense of the animal’s 30________ .So researchers can now only work on projects",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-31",
+            "questionNumber": 31,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Complete the summary using the list of words, A-J, below.",
+            "prompt": "that may lead to the acquisition of further 31________ about the way apes function and interact.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-32",
+            "questionNumber": 32,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "Why does Stumpe refer to ‘layman’s terms’?",
+            "options": [
+              "A. to show that many people hold extreme views about animals.",
+              "B. to suggest that campaigners are reluctant to criticise the law.",
+              "C. to suggest that such inflated terminology is unnecessary.",
+              "D. to argue that most people are not interested in protecting animals."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-33",
+            "questionNumber": 33,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "According to Singer, what is the root of the problem?",
+            "options": [
+              "A. Levels of intelligence and awareness differ between species.",
+              "B. People disagree on how intelligent animals like apes are.",
+              "C. Moral principles are not easy for everyone to understand.",
+              "D. Human beings want to see themselves as separate from animals."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-34",
+            "questionNumber": 34,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "If Francione’s current idea was implemented,",
+            "options": [
+              "A. sentient animals could not be kept in cages.",
+              "B. any form of large-scale agriculture would cease to exist.",
+              "C. great apes would be granted all the same rights as humans.",
+              "D. people could no longer offer shelter to an animal."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-35",
+            "questionNumber": 35,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "What is the writer’s attitude to Francione’s theory?",
+            "options": [
+              "A. She is suspicious of the reasoning behind it.",
+              "B. She is doubtful of its chances of being generally accepted.",
+              "C. She is reassured by the impartial way it is expressed.",
+              "D. She is pleased by its logical development."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-36",
+            "questionNumber": 36,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "How does de Waal change the perspective of the animal rights discussion?",
+            "options": [
+              "A. He recommends focusing on the way people look after animals.",
+              "B. He would give rights only to those animals with a moral sense.",
+              "C. He says that society should learn to be responsible for all of humanity.",
+              "D. He thinks that conservation of endangered species should come first."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-37",
+            "questionNumber": 37,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Questions 37–40",
+            "prompt": "Particularly valuable animals in captivity are more likely to be protected by law. 38 de Waal highlights the need to give human rights to higher order animals.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-39",
+            "questionNumber": 39,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Questions 37–40",
+            "prompt": "If GAP beliefs were implemented in the wild, the survival rate of the larger apes would increase.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-40",
+            "questionNumber": 40,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Questions 37–40",
+            "prompt": "If people in Western countries, for example, learned to consider apes’ needs, fewer apes would be captured for sale. KEY Câu số 1: FALSE Câu số 2: NOT GIVEN ... Câu số 3: TRUE ... Câu số 4: TRUE ... Câu số 5: NOT GIVEN ... Câu số 6: FALSE ... Câu số 7: shiny surface ... Câu số 8: details ... Câu số 9: mouths ... Câu số 10: shellfish beaker ... Câu số 11: mosaic glass ... Câu số 12: chemistry ... Câu số 13: puzzle Câu số 14: Siberian polecat ... Câu số 15: Europe ... Câu số 16: prairie dog ... Câu số 17: B ... Câu số 18: H ... Câu số 19: A ... Câu số 20: F ... Câu số 21: G ... Câu số 22: E ... Câu số 23: E ... Câu số 24: H ... Câu số 25: D ... Câu số 26: I Câu số 27: J. species ... Câu số 28: ... Câu số 29: ... Câu số 30: ... Câu số 31: ... Câu số 32: C ... Câu số 33: D ... Câu số 34: A ... Câu số 35: B ... Câu số 36: A ... Câu số 37: NOT GIVEN ... Câu số 38: NO ... Câu số 39: NOT GIVEN ... Câu số 40: YES",
+            "options": [
+              "D. regulations",
+              "F. research",
+              "B. well-being",
+              "C. knowledge"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          }
+        ],
+        "hasAnswerKey": false
+      },
+      "listening": {
+        "status": "missing",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": []
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": []
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": []
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": []
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [],
+        "notes": "Thư mục nguồn VOL 10 chưa có file đề và Audio gốc Listening. Hãy nạp tại Batch Importer hoặc đặt file vào public/audio/vol-10/."
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": []
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {},
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Cần gắn file Audio gốc (Vol10_Test1.mp3) và Transcript/SRT để luyện Dictation."
+      },
+      "writing": {
+        "status": "missing",
+        "sourceFiles": []
+      },
+      "idea": {
+        "status": "missing",
+        "topic": "Chưa có đề Writing nguồn",
+        "sideATitle": "",
+        "sideAArguments": [],
+        "sideBTitle": "",
+        "sideBArguments": [],
+        "examples": [],
+        "collocations": []
+      }
+    },
+    {
+      "id": "vol-10-test-2",
+      "volNumber": 10,
+      "testNumber": 2,
+      "title": "Vol 10 — Test 2",
+      "reading": {
+        "status": "ready",
+        "sourceFiles": [
+          "VOL 10 KEY.pdf"
+        ],
+        "originalPdfUrl": "/vol-archive/VOL%2010%20KEY.pdf",
+        "passages": [
+          {
+            "id": "passage-3",
+            "passageNumber": 3,
+            "title": "Câu số 27:",
+            "paragraphs": [
+              {
+                "text": "v) Potential threat to minority languages"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 28:"
+              },
+              {
+                "text": "x) Value of minority languages to linguists."
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 29:"
+              },
+              {
+                "text": "iii) Positive gains in protection efforts"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 30:"
+              },
+              {
+                "text": "iv) Minimum requirement for saving a language"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 31:"
+              },
+              {
+                "text": "vii) Uncertainty about the success of native language programs."
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 32:"
+              },
+              {
+                "text": "viii) Lack in confidence in young speakers as a negative factor"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 33:"
+              },
+              {
+                "text": "ii) Consensus on an Initial recommendation for saving dying out languages"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 34:"
+              },
+              {
+                "text": "C"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 35:"
+              },
+              {
+                "text": "B"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 36:"
+              },
+              {
+                "text": "E"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 37:"
+              },
+              {
+                "text": "A"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 38:"
+              },
+              {
+                "text": "D"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 39:"
+              },
+              {
+                "text": "C"
+              },
+              {
+                "text": "..."
+              },
+              {
+                "text": "Câu số 40:"
+              },
+              {
+                "text": "D"
+              }
+            ]
+          }
+        ],
+        "questions": [],
+        "hasAnswerKey": false
+      },
+      "listening": {
+        "status": "missing",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": []
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": []
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": []
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": []
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [],
+        "notes": "Thư mục nguồn VOL 10 chưa có file đề và Audio gốc Listening. Hãy nạp tại Batch Importer hoặc đặt file vào public/audio/vol-10/."
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": []
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {},
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Cần gắn file Audio gốc (Vol10_Test2.mp3) và Transcript/SRT để luyện Dictation."
+      },
+      "writing": {
+        "status": "missing",
+        "sourceFiles": []
+      },
+      "idea": {
+        "status": "missing",
+        "topic": "Chưa có đề Writing nguồn",
+        "sideATitle": "",
+        "sideAArguments": [],
+        "sideBTitle": "",
+        "sideBArguments": [],
+        "examples": [],
+        "collocations": []
+      }
+    },
+    {
+      "id": "vol-10-test-3",
+      "volNumber": 10,
+      "testNumber": 3,
+      "title": "Vol 10 — Test 3",
+      "reading": {
+        "status": "ready",
+        "sourceFiles": [
+          "VOL 10 KEY.pdf"
+        ],
+        "originalPdfUrl": "/vol-archive/VOL%2010%20KEY.pdf",
+        "passages": [
+          {
+            "id": "passage-1",
+            "passageNumber": 1,
+            "title": "VOL 10 test 3",
+            "paragraphs": [
+              {
+                "text": "THE FORMATION OF CONTINENTS AND THE EVOLUTION OF SPECIES"
+              },
+              {
+                "label": "A",
+                "text": "The fact that there was once a Pangean supercontinent, a Panthalassa Ocean, and a"
+              },
+              {
+                "text": "Tethys Ocean, has profound implications for the evolution of multicellular life on Earth These"
+              },
+              {
+                "text": "considerations were unknown to the scientists of the 19th century — making their scientific"
+              },
+              {
+                "text": "deductions even more remarkable. Quite independently of each other, Charles Darwin and his"
+              },
+              {
+                "text": "young contemporary Alfred Russel Wallace reached the conclusion that life had evolved by"
+              },
+              {
+                "text": "natural selection. Wallace later wrote in My Life of his own inspiration."
+              },
+              {
+                "label": "B",
+                "text": "Why do some species die and some live? The answer was clearly that on the whole the"
+              },
+              {
+                "text": "best fit lived. From the effects of disease, the most-healthy escaped; from enemies the"
+              },
+              {
+                "text": "strongest, the swiftest or the most cunning; from famine the best hunters. Then, it suddenly"
+              },
+              {
+                "text": "flashed on me that this self-acting process would improve the race, because in every"
+              },
+              {
+                "text": "generation the inferior would inevitably be killed off and the superior would remain, that is, the"
+              },
+              {
+                "text": "fittest would survive."
+              },
+              {
+                "label": "C",
+                "text": "Both Darwin's and Wallace's ideas about natural selection had been influenced by the"
+              },
+              {
+                "text": "essays of Thomas Malthus in his Principles of Population. Their conclusions, however, had"
+              },
+              {
+                "text": "been the direct result of their personal observation of animals and plants in widely separated"
+              },
+              {
+                "text": "geographic locations: Darwin from his experiences during the voyage of the Beagle, and"
+              },
+              {
+                "text": "particularly during the ship's visit to the Galapagos Islands in the East Pacific in 1835; Wallace"
+              },
+              {
+                "text": "during his years of travel in the Amazon Basin and in the Indonesia-Australian Archipelago in"
+              },
+              {
+                "text": "the 1850s."
+              },
+              {
+                "label": "D",
+                "text": "Darwin had been documenting his ideas on natural selection for many years when he"
+              },
+              {
+                "text": "received a paper on this same subject from Wallace, who asked for Darwin's opinion and help"
+              },
+              {
+                "text": "in getting it published. In July 1858, Charles Lyell and J. D Hooker, close friends of Darwin,"
+              },
+              {
+                "text": "pressed Darwin to present his conclusions so that he would not lose priority to an unknown"
+              },
+              {
+                "text": "naturalist. Presiding over the hastily called but now historic meeting of the Linnean Society in"
+              },
+              {
+                "text": "London, Lyell and Hooker explained to the distinguished members how \"these two gentlemen\""
+              },
+              {
+                "text": "(who were absent: Wallace was abroad, and Darwin chose not to attend), had \"independently"
+              },
+              {
+                "text": "and unknown to one another, conceived the same very ingenious theory\""
+              },
+              {
+                "label": "E",
+                "text": "Both Darwin and Wallace had realized that the anomalous distribution of species in"
+              },
+              {
+                "text": "particular regions had profound evolutionary significance. Subsequently, Darwin spent the rest"
+              },
+              {
+                "text": "of his days in almost total seclusion thinking and writing mainly about the origin of species. In"
+              },
+              {
+                "text": "contrast, Wallace applied himself to the science of biogeography, the study of the pattern and"
+              },
+              {
+                "text": "distribution of species, and its significance, resulting in the publication of a massive two volume"
+              },
+              {
+                "text": "work the Geographical Distribution of Animals in 1876."
+              },
+              {
+                "label": "F",
+                "text": "Wallace was a gentle and modest man, but also persistent and quietly courageous. He"
+              },
+              {
+                "text": "spent years working in the most arduous possible climates and terrains, particularly in the"
+              },
+              {
+                "text": "Malay Archipelago, he made patient and detailed zoological observations and collected huge"
+              },
+              {
+                "text": "numbers of specimens for museums and collectors - which is how he made a living. One result"
+              },
+              {
+                "text": "of his work was the conclusion that there is a distinct faunal boundary, called \"Wallace's line, \""
+              },
+              {
+                "text": "between an Asian realm of animals in Java, Borneo and the Philippines and an Australian realm"
+              },
+              {
+                "text": "in New Guinea and Australia. In essence this boundary posed a difficult question: How on Earth"
+              },
+              {
+                "text": "did plants and animals with a clear affinity to the Northern Hemisphere meet with their Southern"
+              },
+              {
+                "text": "Hemispheric counterparts along such a distinct Malaysian demarcation zone? Wallace was"
+              },
+              {
+                "text": "uncertain about demarcation on one particular island - Celebes, a curiously shaped place that is"
+              },
+              {
+                "text": "midway between the two groups. Initially he assigned its flora-fauna to the Australian side of the"
+              },
+              {
+                "text": "line, but later he transferred it to the Asian side. Today we know the reason for his dilemma. 200"
+              },
+              {
+                "text": "MYA East and West Celebes were islands with their own natural history lying on opposite sides"
+              },
+              {
+                "text": "of the Tethys Ocean. They did not collide until about 15 MYA. The answer to the main question"
+              },
+              {
+                "text": "is that Wallace's Line categorizes Laurasia-derived flora-fauna (the Asian) and"
+              },
+              {
+                "text": "Gondwana-derived flora-fauna (the Australian), fauna that had evolved on opposing shares of"
+              },
+              {
+                "text": "the Tethys. The closure of the Tethys Ocean today is manifested by the ongoing collision of"
+              },
+              {
+                "text": "Australia/New Guinea with Indochina/Indonesia and the continuing closure of the"
+              },
+              {
+                "text": "Mediterranean Sea—a remnant of the Western Tethys Ocean."
+              },
+              {
+                "label": "G",
+                "text": "In his ORIGIN OF CONTINENTS AND OCEANS, Wegener quoted at length from"
+              },
+              {
+                "text": "Wallace's Geographical Distribution of Animals. According to Wegener's reading, Wallace had"
+              },
+              {
+                "text": "identified three clear divisions of Australian animals, which supported his own theory of"
+              },
+              {
+                "text": "continental displacement. Wallace had shown that animals long established in southwestern"
+              },
+              {
+                "text": "Australia had an affinity with animals in South Africa, Madagascar, India, and Ceylon, but did"
+              },
+              {
+                "text": "not have an affinity with those in Asia. Wallace also showed that Australian marsupials and"
+              },
+              {
+                "text": "monotremes are clearly related to those In South America, the Moluccas, and various Pacific"
+              },
+              {
+                "text": "islands, and that none are found in neighboring Indonesia. From this and related data, Wegener"
+              },
+              {
+                "text": "concluded that the then broadly accepted \"landbridge\" theory could not account for this"
+              },
+              {
+                "text": "distribution of animals and that only his theory of continental drift could explain it."
+              },
+              {
+                "label": "H",
+                "text": "The theory that Wegener dismissed in preference to his own proposed that plants and"
+              },
+              {
+                "text": "animals had once migrated across now-submerged intercontinental landbridges. In 1885, one"
+              },
+              {
+                "text": "of Europe's leading geologists, Eduard Suess, theorized that as the rigid Earth cools, its upper"
+              },
+              {
+                "text": "crust shrinks and wrinkles like the withering skin of an aging apple. He suggested that the"
+              },
+              {
+                "text": "planet's seas and oceans now fill the wrinkles between once-contiguous plateaus."
+              },
+              {
+                "text": "I. Today, we know that we live on a dynamic Earth with shifting, colliding and separating"
+              },
+              {
+                "text": "tectonic plates, not a \"withering skin\", and the main debate in the field of biogeography has"
+              },
+              {
+                "text": "shifted. The discussion now concerns \"dispersalism\" versus \"vicarianism\" unrestricted radiation"
+              },
+              {
+                "text": "of species on the one hand and the development of barriers to migration on the other."
+              },
+              {
+                "text": "Dispersion is a short-term phenomenon—the daily or seasonal migration of species and their"
+              },
+              {
+                "text": "radiation to the limits of their natural environment on an extensive and continuous landmass."
+              },
+              {
+                "text": "Vicarian evolution, however, depends upon the separation and isolation of a variety of species"
+              },
+              {
+                "text": "within the confines of natural barriers in the form of islands, lakes, or shallow"
+              },
+              {
+                "text": "seas—topographical features that take a long time to develop."
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1-1",
+            "questionNumber": 1,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Urged Darwin to publish his scientific findings",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-2",
+            "questionNumber": 2,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Depicted physical features of earth's crust",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-3",
+            "questionNumber": 3,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Believed in continental drift theory while rejecting another one",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-4",
+            "questionNumber": 4,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Published works about wildlife distribution in different regions",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-5",
+            "questionNumber": 5,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Evolution of species is based on selection by nature",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-6",
+            "questionNumber": 6,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 1 has nine paragraphs, A - I. Which paragraph contains the following",
+            "prompt": "The most adaptable would survive",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-7",
+            "questionNumber": 7,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 1 has nine paragraphs, A - I. Which paragraph contains the following",
+            "prompt": "The boundary called Wallace's line is found between Asia and Australia",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-8",
+            "questionNumber": 8,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 1 has nine paragraphs, A - I. Which paragraph contains the following",
+            "prompt": "Animal affinity exists between Australia and Africa",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-15",
+            "questionNumber": 15,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+            "prompt": "_____________ in genders. Besides, a part of the brain involved in yawning may also be responsible for 16. _____________. Another study found that there is a link between a yawn and 17. _____________ during the first three months of pregnancy, and yawning was also shown to set off an involuntary movement in people with 18. _____________ .",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-19",
+            "questionNumber": 19,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 2 has eight paragraphs, A-E. Which paragraph contains the following",
+            "prompt": "The rate for yawning shows some regular pattern.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-20",
+            "questionNumber": 20,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 2 has eight paragraphs, A-E. Which paragraph contains the following",
+            "prompt": "Yawning is an inherent ability that appears in both animals and humans.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-21",
+            "questionNumber": 21,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 2 has eight paragraphs, A-E. Which paragraph contains the following",
+            "prompt": "Stretching and yawning doesn't always occur together.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-22",
+            "questionNumber": 22,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 2 has eight paragraphs, A-E. Which paragraph contains the following",
+            "prompt": "Yawning may suggest people are empathetic and attentive.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-23",
+            "questionNumber": 23,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Reading Passage 2 has eight paragraphs, A-E. Which paragraph contains the following",
+            "prompt": "Some superior areas in the brain may underline the infectious feature of yawning.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-24",
+            "questionNumber": 24,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Questions 24–26",
+            "prompt": "Some participants in Platek's first experiment did not understand why they were asked to look at people yawning. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-25",
+            "questionNumber": 25,
+            "sectionNumber": 1,
+            "type": "matching_info",
+            "instruction": "Questions 24–26",
+            "prompt": "The results from the second experiment indicate the link between yawning and empathy. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-26",
+            "questionNumber": 26,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Questions 24–26",
+            "prompt": "Yawning shows a positive impact on the recovery from brain damage brought by a stroke. TRUE FALSE NOT GIVEN INCORRECT TERMINOLOGY IN SCIENCE communication of scientific developments more important than ever. Yet such communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings. difficulty of finding sufficiently faithful terminology. Abstraction and complexity are not signs that a given scientific direction is wrong, as some commentators have suggested, but are instead a tribute to the success of human ingenuity in meeting the increasingly complex challenges that nature presents. They can, however, make communication more difficult. But many of the biggest challenges for science reporting arise because in areas of evolving research, scientists themselves often only partly understand the full implications of any particular advance or development. Since that dynamic applies to most of the scientific developments that directly affect people's lives: global warming, cancer research, diet studies — learning how to overcome it is critical to spurring a more informed scientific debate among the broader public. employ colloquial terminology, which they then assign a specific meaning that is impossible to fathom without proper training. The term \"relativity,\" for example, is intrinsically misleading. Many interpret the theory to mean that everything is relative and there are no absolutes. Yet although the measurements any observer makes depend on his coordinates and reference frame, the physical phenomena he measures have an invariant description that transcends that observer's particular coordinates. Einstein's theory of relativity is really about finding an Invariant description of physical phenomena. True, Einstein agreed with the idea that his theory would have been better named \"Invarianten theory.\" But the term - \"relativity\" was already entrenched at the time for him to change. as a limitation on observers and their ability to make measurements. But it is not about intrinsic limitations on any one particular measurement; it is about the inability to precisely measure particular pairs of quantities simultaneously. The first Interpretation is perhaps more engaging from a philosophical or political perspective. It's just not what science is about. describe a passing conjecture that they often regard as suspect, physicists have very specific ideas in mind when they talk about theories. For physicists, theories entail a definite physical framework embodied in a set of fundamental assumptions about the world that lead to a specific set of equations and predictions — ones that are borne out by successful predictions. Theories aren't necessarily shown to be correct or complete immediately. Even Einstein took the better part of a decade to develop the correct version of his theory of general relativity. But eventually both the ideas and the measurements settle down and theories are either proven correct, abandoned or absorbed into other, more encompassing theories. more drastic fluctuations in temperature and rainfall — not necessarily that every place will be warmer. The name sometimes subverts the debate, since it lets people argue that their winter was worse, so how could there be global warming? Clearly \"global climate change\" would have been a better name. But not all problems stem solely from poor word choices. Some stem from the intrinsically complex nature of much of modern science. Science sometimes transcends this limitation: remarkably, chemists were able to detail the precise chemical processes involved in the destruction of the ozone layer, making the evidence that chlorofluorocarbon gases (Freon, for example) were destroying the ozone layer indisputably. simple story would help to clarify many scientific discussions. For several months, Harvard was tortured by empty debates over the relative intrinsic scientific abilities of men and women. One of the more amusing aspects of the discussion was that those who believed in the differences and those who didn't used the same evidence about gender-specific special ability. How could that be? The answer is that the data shows no substantial effects. Social factors might account for these tiny differences, which in any case have an unclear connection to scientific ability. Not much of a headline when phrased that way, is it? Each type of science has its own source of complexity and potential for miscommunication. Yet there are steps we can take to improve public understanding in all cases. The first would be to inculcate greater understanding and acceptance of indirect scientific evidence. The information from an unmanned space mission is no less legitimate than the information from one In which people are on board. indirect evidence with blind belief, as people sometimes suggest. Second, we might need different standards for evaluating science with urgent policy implications than research with purely theoretical value. When scientists say they are not certain about their predictions, it doesn't necessarily mean they've found nothing substantial. It would be better if scientists were more open about the mathematical significance of their results and if the public didn't treat math as quite so scary. Statistics and errors, which tell us the uncertainty in a measurement, give us the tools to evaluate new developments fairly. I. But most importantly, people have to recognize that science can be complex. If we accept only simple stories, the description will necessarily be distorted. When advances are subtle or complicated, scientists should be willing to go the extra distance to give proper explanations and be patient about the truth. Even so, some difficulties are unavoidable. Most developments reflect work in progress, so the story is complex because no one yet knows the big picture.",
+            "options": [
+              "A. Science plays an increasingly significant role in people's lives, making the faithful",
+              "B. Some problems stem from the esoteric nature of current research and the associated",
+              "C. Ambiguous word choices are the source of some misunderstandings. Scientists often",
+              "D. \"The uncertainty principle\" is another frequently abused term. It is sometimes interpreted",
+              "E. Even the word \"theory\" can be a problem. Unlike most people, who use the word to",
+              "F. \"Global warming\" is another example of problematic terminology. Climatologists predict",
+              "G. A better understanding of the mathematical significance of results and less insistence on a",
+              "H. This doesn't mean never questioning an Interpretation, but it also doesn't mean equating"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-27",
+            "questionNumber": 27,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "Why is the faithful communication of science important?",
+            "options": [
+              "A. Science plays an increasingly significant role in people's lives.",
+              "B. Science is fraught with challenges the public are interested in.",
+              "C. The nature of complexity in science communication leads to confusion.",
+              "D. Scientific inventions are more important than ever before."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-28",
+            "questionNumber": 28,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "What is the reason for many of the biggest challenges in science reporting?",
+            "options": [
+              "A. Phenomenon such as global warming, cancer research, diet studies are too complex",
+              "B. Scientists themselves often only partly understand the Theory of Evolution",
+              "C. Scientists do not totally comprehend the impact of certain scientific advancements",
+              "D. Scientists themselves often partly understand the esoteric communication nature"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-29",
+            "questionNumber": 29,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "According to the 3rd paragraph, the reference to the term and example of \"theory of relativity\" is to demonstrate",
+            "options": [
+              "A. Theory of relativity is about an invariant physical phenomenon",
+              "B. Scientific terms can sometimes cause misunderstandings",
+              "C. The term \"relativity,\" is designed to be misleading public",
+              "D. Everything is relative and there is no absolute existence"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-30",
+            "questionNumber": 30,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "Which one is a good example of an area where scientists used appropriate terminology",
+            "options": [
+              "A. The uncertainty principle",
+              "B. Global warming",
+              "C. The theory of relativity",
+              "D. Freon's destructive process on Ozone"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-31",
+            "questionNumber": 31,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "What is a surprising finding of the Harvard debates in the passage?",
+            "options": [
+              "A. There are equal intrinsic scientific abilities of men and women.",
+              "B. Both sides used the same data in support of their argument.",
+              "C. The scientific data usually shows no substantial figures to support a debated idea.",
+              "D. Social factors might have a clear connection to scientific ability."
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-32",
+            "questionNumber": 32,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Questions 32–35",
+            "prompt": "\"Global warming\" scientifically refers to greater fluctuations in temperature and rainfall rather than a universal temperature rise.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-33",
+            "questionNumber": 33,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Questions 32–35",
+            "prompt": "More media coverage of \"global warming\" would help the public to recognize the phenomenon.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-34",
+            "questionNumber": 34,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Questions 32–35",
+            "prompt": "Harvard debates should focus more on female scientists than male scientists.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-35",
+            "questionNumber": 35,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Questions 32–35",
+            "prompt": "Indirect scientific evidence is always less reliable than direct scientific evidence.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-36",
+            "questionNumber": 36,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+            "prompt": "unnecessary confusion and misunderstandings. Firstly, ambiguous 36 _____________ are the",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-37",
+            "questionNumber": 37,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+            "prompt": "clearly or deeply a specific scientific meaning via the 37 _____________ that scientists often",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-38",
+            "questionNumber": 38,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+            "prompt": "employ. For example, uncertainty is not about 38 _____________ limitations on any particular",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-39",
+            "questionNumber": 39,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+            "prompt": "39 _____________ . What's more, even the word \"theory\" can be a problem. Theories aren't",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-40",
+            "questionNumber": 40,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+            "prompt": "versions of specific theories, a good example can be the theory of 40 _____________ . Thus,",
+            "acceptedAnswers": [],
+            "explanation": ""
+          }
+        ],
+        "hasAnswerKey": false
+      },
+      "listening": {
+        "status": "missing",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": []
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": []
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": []
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": []
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [],
+        "notes": "Thư mục nguồn VOL 10 chưa có file đề và Audio gốc Listening. Hãy nạp tại Batch Importer hoặc đặt file vào public/audio/vol-10/."
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": []
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {},
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Cần gắn file Audio gốc (Vol10_Test3.mp3) và Transcript/SRT để luyện Dictation."
+      },
+      "writing": {
+        "status": "missing",
+        "sourceFiles": []
+      },
+      "idea": {
+        "status": "missing",
+        "topic": "Chưa có đề Writing nguồn",
+        "sideATitle": "",
+        "sideAArguments": [],
+        "sideBTitle": "",
+        "sideBArguments": [],
+        "examples": [],
+        "collocations": []
+      }
+    },
+    {
+      "id": "vol-10-test-4",
+      "volNumber": 10,
+      "testNumber": 4,
+      "title": "Vol 10 — Test 4",
+      "reading": {
+        "status": "ready",
+        "sourceFiles": [
+          "VOL 10 KEY.pdf"
+        ],
+        "originalPdfUrl": "/vol-archive/VOL%2010%20KEY.pdf",
+        "passages": [
+          {
+            "id": "passage-1",
+            "passageNumber": 1,
+            "title": "VOL10 test 4",
+            "paragraphs": [
+              {
+                "text": "The Impact of the Potato"
+              },
+              {
+                "text": "Jeff Chapman relates the story of history’s most important vegetable"
+              },
+              {
+                "text": "The potato was first cultivated in South America between three and seven thousand years ago,"
+              },
+              {
+                "text": "though scientists believe it may have grown wild in the region as long as 13,000 years ago. The"
+              },
+              {
+                "text": "genetic patterns of potato distribution indicate that the potato probably originated in the"
+              },
+              {
+                "text": "mountainous west-central region of the continent."
+              },
+              {
+                "text": "Early Spanish chroniclers who misused the Indian word batata (sweet potato) as the name for"
+              },
+              {
+                "text": "the potato noted the importance of the tuber to the Incan Empire. The Incas had learned to"
+              },
+              {
+                "text": "preserve the potato for storage by dehydrating and mashing the potatoes into a substance"
+              },
+              {
+                "text": "called chuño, which could be stored in a room for up to 10 years, providing excellent insurance"
+              },
+              {
+                "text": "against possible crop failures. As well as using the food as a staple crop, the Incas thought"
+              },
+              {
+                "text": "potatoes made childbirth easier and used them to treat injuries."
+              },
+              {
+                "text": "The Spanish conquistadors first encountered the potato when they arrived in Peru in 1532 in"
+              },
+              {
+                "text": "search of gold and noted Inca miners eating chuño. At the time, the Spaniards failed to realize"
+              },
+              {
+                "text": "that the potato represented a far more important treasure than either silver or gold, but they did"
+              },
+              {
+                "text": "gradually begin to use potatoes as basic rations aboard their ships. After the arrival of the"
+              },
+              {
+                "text": "potato in Spain in 1570, a few Spanish farmers began to cultivate it on a small scale, mostly as"
+              },
+              {
+                "text": "food for livestock."
+              },
+              {
+                "text": "Throughout Europe, potatoes were regarded with suspicion, distaste, and fear. Generally"
+              },
+              {
+                "text": "considered to be unfit for human consumption, they were used only as animal fodder and"
+              },
+              {
+                "text": "sustenance for the starving. In northern Europe, potatoes were primarily grown in botanical"
+              },
+              {
+                "text": "gardens as an exotic novelty. Even peasants refused to eat a plant that produced ugly,"
+              },
+              {
+                "text": "misshapen tubers and that had come from a heathen civilization. Some felt that the potato"
+              },
+              {
+                "text": "plant’s resemblance to plants in the nightshade family hinted that it was the creation of witches"
+              },
+              {
+                "text": "or devils."
+              },
+              {
+                "text": "In meat-loving England, farmers and urban workers regarded potatoes with extreme distaste. In"
+              },
+              {
+                "text": "1662, the Royal Society recommended the cultivation of the tuber to the English government"
+              },
+              {
+                "text": "and the nation, but this recommendation had little impact. Potatoes did not become a staple"
+              },
+              {
+                "text": "until, during the food shortages associated with the Revolutionary Wars, the English"
+              },
+              {
+                "text": "government began to officially encourage potato cultivation. Mate is a thief. In 1795, the Board"
+              },
+              {
+                "text": "of Agriculture issued a pamphlet entitled “Hints Respecting the Culture and Use of Potatoes”;"
+              },
+              {
+                "text": "this was followed shortly by pro-potato editorials and potato recipes in The Times . Gradually,"
+              },
+              {
+                "text": "the lower classes began to follow the lead of the upper classes."
+              },
+              {
+                "label": "A",
+                "text": "similar pattern emerged across the English Channel in the Netherlands, Belgium and France."
+              },
+              {
+                "text": "While the potato slowly gained ground in eastern France (where it was often the only crop"
+              },
+              {
+                "text": "remaining after marauding soldiers plundered wheat fields and vineyards), it did not achieve"
+              },
+              {
+                "text": "widespread acceptance until the late 1700s. The peasants remained suspicious, in spite of a"
+              },
+              {
+                "text": "1771 paper from the Faculté de Paris testifying that the potato was not harmful but beneficial."
+              },
+              {
+                "text": "The people began to overcome their distaste when the plant received the royal seal of approval:"
+              },
+              {
+                "text": "Louis XVI began to sport a potato flower in his buttonhole, and Marie-Antoinette wore a purple"
+              },
+              {
+                "text": "potato blossom in her hair."
+              },
+              {
+                "text": "Frederick the Great of Prussia saw the potato’s potential to help feed his nation and lower the"
+              },
+              {
+                "text": "price of bread, but faced the challenge of overcoming the people’s prejudice against the plant."
+              },
+              {
+                "text": "When he issued a 1774 order for his subjects to grow potatoes as protection against famine,"
+              },
+              {
+                "text": "the town of Kolberg replied: “The things have neither smell nor taste; not even the dogs will eat"
+              },
+              {
+                "text": "them, so what use are they to us?” Trying a less direct approach to encourage his subjects to"
+              },
+              {
+                "text": "begin planting potatoes, Frederick used a bit of reverse psychology: he planted a royal field of"
+              },
+              {
+                "text": "potato plants and stationed a heavy guard to protect this field from thieves. Nearby peasants"
+              },
+              {
+                "text": "naturally assumed that anything worth guarding was worth stealing, and so sneaked into the"
+              },
+              {
+                "text": "field and snatched the plants for their home gardens. Of course, this was entirely in line with"
+              },
+              {
+                "text": "Frederick’s wishes."
+              },
+              {
+                "text": "Historians debate whether the potato was primarily a cause or an effect of the huge population"
+              },
+              {
+                "text": "boom in industrial-era England and Wales. Prior to 1800, the English diet had consisted"
+              },
+              {
+                "text": "primarily of meat, supplemented by bread, butter, and cheese. Few vegetables were consumed,"
+              },
+              {
+                "text": "with most vegetables being regarded as nutritionally worthless and potentially harmful. This"
+              },
+              {
+                "text": "view began to change gradually in the late 1700s. The Industrial Revolution was drawing an"
+              },
+              {
+                "text": "ever-increasing percentage of the populace into crowded cities, where only the richest could"
+              },
+              {
+                "text": "afford homes with ovens or coal storage rooms, and people were working 12–16-hour days,"
+              },
+              {
+                "text": "which left them with little time or energy to prepare food. High-yielding, easily prepared potato"
+              },
+              {
+                "text": "crops were the obvious solution to England’s food problems."
+              },
+              {
+                "text": "Whereas most of their neighbours regarded the potato with suspicion and had to be persuaded"
+              },
+              {
+                "text": "to use it by the upper classes, the Irish peasantry embraced the tuber more passionately than"
+              },
+              {
+                "text": "anyone since the Incas. The potato was well suited to the Irish soil and climate, and its high"
+              },
+              {
+                "text": "yield suited the most important concern of most Irish farmers: to feed their families."
+              },
+              {
+                "text": "The most dramatic example of the potato’s potential to alter population patterns occurred in"
+              },
+              {
+                "text": "Ireland, where the potato had become a staple by 1800. The Irish population doubled to eight"
+              },
+              {
+                "text": "million between 1780 and 1841, without any significant expansion of industry or reform of"
+              },
+              {
+                "text": "agricultural techniques beyond the widespread cultivation of the potato. Mate is a thief. Though"
+              },
+              {
+                "text": "Irish landholding practices were primitive in comparison with those of England, the potato’s high"
+              },
+              {
+                "text": "yields allowed even the poorest farmers to produce more healthy food than they needed with"
+              },
+              {
+                "text": "scarcely any investment or hard labour. Even children could easily plant, harvest, and cook"
+              },
+              {
+                "text": "potatoes, which, of course, required no threshing, curing, or grinding. The abundance provided"
+              },
+              {
+                "text": "by potatoes greatly decreased infant mortality and encouraged early marriage."
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1-1",
+            "questionNumber": 1,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Early Spanish chroniclers called the potato by the Incan name ‘chuño’. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "FALSE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-2",
+            "questionNumber": 2,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "The purpose of the Spanish coming to Peru was to find potatoes. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "FALSE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-3",
+            "questionNumber": 3,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "The Spanish believed that the potato had the same nutrients as other vegetables. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-4",
+            "questionNumber": 4,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "Peasants at that time did not like to eat potatoes because they were ugly. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "TRUE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-5",
+            "questionNumber": 5,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–5",
+            "prompt": "The popularity of potatoes in the UK was due to food shortages during the war. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "TRUE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-14",
+            "questionNumber": 14,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ For many years, burning rubbish has been portrayed as the lazy option when it comes to dealing with the problem of waste disposal, since it sends toxic fumes into the air and appears to support a consumerist, throwaway society. Norway, however, appears to be burning its way through a sizeable chunk of Europe’s municipal waste, using the heat created by this process to warm and power homes in many of its cities. Norway isn’t alone: Germany, Sweden, Belgium and the Netherlands all burn significant quantities of rubbish, and across Europe there are 420 plants burning municipal waste. With Europe dumping 150 million tonnes of rubbish into landfill* every year, there would seem to be limitless supply.",
+            "acceptedAnswers": [
+              "iv. A surprising approach to waste disposal by several countries"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-15",
+            "questionNumber": 15,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Those who support burning waste say that a new generation of incinerators has made it a more attractive option. Filters and scrubbing mechanisms now capture harmful substances such as mercury, hydrochloric acid and heavy metals. According to Ted Michaels, president of the US-based Energy Recovery Centre, ‘There has been constant evolution in combustion engineering and emissions-control technology, and the output from these facilities is now minuscule.’ Above all, however, supporters say that incineration is the only way of preventing the long-term impacts of landfill. Mate is a thief. In ten years’ time, says the World Bank, humans will be generating 2.2 billion tonnes of solid waste per year. Advocates see incineration as a practical way to deal swiftly with an immediate problem.",
+            "acceptedAnswers": [
+              "vii. A number of justifications for the use of incineration"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-16",
+            "questionNumber": 16,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Levels of waste generation vary hugely around the world. ‘It’s a problem for the developed nations,’ says Joergen Fenhann, a senior scientist working with the UN Environment Programme in Denmark. ‘The more you develop, the more you produce, buy and throw away.’ But the growth of incineration hasn’t been universally welcomed. Lars Haltbrekken, chairman of Friends of the Earth in Norway, is concerned that incineration plants appear to generate demand for their services. ‘The problem in Norway,’ he explains, ‘is that we have built too many waste-burning factories. So we’ve ended up importing waste from other countries. If you look at this from a very narrow perspective, it is, of course, better for the climate to burn rubbish from the UK rather than leave it in landfill there,’ he continues. ‘But from a broader perspective, it’s a lazy way of getting rid of waste; you don’t stimulate the goals of reducing, reusing and recycling.’",
+            "acceptedAnswers": [
+              "vi. Arguments against incineration from a country that uses it"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-17",
+            "questionNumber": 17,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Incineration is also at odds with EU policy, which promotes a ‘recycling hierarchy’: ideally, we simply produce less waste in the first place; failing that, we reuse objects more; the next best option is recycling; only then should we consider incineration, while dumping in landfill is the last resort. Dealing with the problem of waste disposal involves tracing the whole process that takes the material from its inception to landfill. We used to call this the ‘cradle-to-grave’ life cycle; now, the talk is of ‘cradle to cradle’ and an even more comprehensive concept known as ‘zero waste’. ‘The philosophy of cradle to cradle is about designing products that are actually good for the environment at the end of their life,’ says Joan Marc Simon, European spokesman for the environmental movement GAIA. ‘You design a bottle that contains no toxins, is fully recyclable and requires the minimum amount of energy to produce.’ As Simon points out, however, without the right mechanisms in place, ‘nothing guarantees that this bottle will end up being properly collected and treated in the appropriate recycling facility’.",
+            "acceptedAnswers": [
+              "i. New terminology reflecting changing attitudes to waste disposal"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-18",
+            "questionNumber": 18,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Tim Burns, policy manager at Keep Britain Tidy, says, ‘In the UK alone, people waste 10 billion tonnes of food every year. You can argue about composting that, or not buying it in the first place—if you do that, then that’s money the retailers don’t get, so it’s not always clear-cut.’ Mate is a thief. The implications of zero waste are that we’re going to have to take a good long look at those well-stocked supermarket shelves, too. ‘Supermarkets keep their shelves stocked even when demand isn’t there, which means they have to pay to dispose of a lot of food,’ says Burns. ‘But that cost is less to them than the cost in brand damage of having empty shelves.’",
+            "acceptedAnswers": [
+              "v. Difficult choices for individuals and businesses"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-19",
+            "questionNumber": 19,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Recent history and changes in trends in recycling suggest that we should be prepared for unexpected developments. ‘If someone back in the 1980s had suggested what waste would be like now, they would have been completely wrong,’ says Richard Fisher, a PhD researcher at Cranfield University. ‘Consumerism has developed at a pace we never expected. Nobody would have said there would be so much electronic waste. But recycling has grown, too—ten years ago, nobody would have predicted today’s levels of recycling.’ But he points out that the need to reduce waste is still a difficult message to sell to consumers. He suggests that what people are really concerned about is their loved ones and the future they face. ‘Perhaps we can align the environmental message to these deep-seated values,’ he says. ‘We need to look at whether it’s business that drives consumers or the other way around. You need government to play a leadership role, whereas countries such as the UK seem to be stepping away from the environment in pursuit of short-term economic goals.’",
+            "acceptedAnswers": [
+              "ii. Fundamental changes in behaviour in the past and future"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-20",
+            "questionNumber": 20,
+            "sectionNumber": 2,
+            "type": "matching_info",
+            "instruction": "Match each person with the correct opinion, A–G.",
+            "prompt": "Ted Michaels",
+            "acceptedAnswers": [
+              "F. Incineration of waste is now relatively harmless to the environment."
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-21",
+            "questionNumber": 21,
+            "sectionNumber": 2,
+            "type": "matching_info",
+            "instruction": "Match each person with the correct opinion, A–G.",
+            "prompt": "Joergen Fenhann",
+            "acceptedAnswers": [
+              "C. Greater consumerism leads to higher levels of waste."
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-22",
+            "questionNumber": 22,
+            "sectionNumber": 2,
+            "type": "matching_info",
+            "instruction": "Match each person with the correct opinion, A–G.",
+            "prompt": "Joan Marc Simon",
+            "acceptedAnswers": [
+              "D. Proper systems are needed for the recycling of environmentally-friendly products."
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-23",
+            "questionNumber": 23,
+            "sectionNumber": 2,
+            "type": "matching_info",
+            "instruction": "Match each person with the correct opinion, A–G.",
+            "prompt": "Tim Burns",
+            "acceptedAnswers": [
+              "G. Efforts to reduce waste may affect profits for some types of companies."
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-26",
+            "questionNumber": 26,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ How to clean a beach Oil spills such as the disaster in the Gulf of Mexico serve to remind us of the potential dangers of various commercial activities for our fragile oceanic environments After the oil tanker Prestige spilt her cargo just off north-west Spain in November 2002, the beautiful beaches of the Galician coastline were covered by a metre-deep mixture of oil and seawater. The Prestige was only one incident in a long series of accidents involving oil tankers. But while each new incident, including that of the Prestige, brings environmental destruction and financial loss, it also improves our understanding of how to deal with oil spills. This knowledge is hard-won, as people have often learned from mistakes made in dealing with oil spills. Aggressive clean-ups have sometimes caused more damage than the oil. But such difficulties apart, a rough consensus on how to deal with the issues involved in clearing up oil spills has begun to emerge. Oil is much less damaging at sea than on shore, so the best option is to skim the spilled oil off the surface of the water using specially equipped ships. A series of wooden booms floating on the surface of the water can also be used to protect the coastline. But the sea around the Prestige was too rough for the former, and much of the coast too exposed for booms to work, so there was little that could be done except watch the oil wash up onto the beaches. When oil arrives onshore, the question becomes how best to save affected plants and animals, while minimizing damage to the surrounding ecosystem, without running up a huge bill. In large spills, leaving nature to do the job is a bad idea. Even the oiliest shore will return to normal, but without human intervention this can take many years. In the case of the Prestige, both the volume of oil spilt and the wildlife, fishing and tourist value of the Galician coast demanded action by specialists. To decide what to do, specialists combined their own professional experience with local knowledge in an assessment process known as ‘net environmental benefit analysis’. Mate is a thief. Factors taken into account include possible environmental destruction, such as damage to an oiled beach which is home to a breeding colony of seals or seabirds. Less immediate socio-economic repercussions also come into play: local people may rely on shellfish beds, for example, or an affected beach could be a tourist destination. And such practical realities as the cost incurred by a particular clean-up option and how easy it will be to implement are also assessed. Every intensive clean-up option has its drawbacks. When oil from the Exxon Valdez polluted the Alaskan shoreline in 1989, hot water applied under high pressure was used to scrub the beaches. But the parts of the shoreline that got this treatment recovered more slowly than those that did not. In Spain, this technique has so far been used only on man-made structures such as harbour walls. Other methods have been even more aggressive than this. When the Torrey Canyon ran aground off the south coast of England in March 1967, oiled beaches were treated with 10,000 tonnes of chemical sprays. These turned out to be more toxic than the oil: many seashore invertebrates died, and the nutrients in the dispersants caused an explosion of seaweed growth. In Galicia, local people wanted heavy machinery to come in and remove large quantities of oil quickly. But this has its own environmental cost. There were no tracks to the worst-affected beaches and it was feared that building them would harm the surrounding landscape. Mate is a thief. But in one of the areas affected, oil on the surface of the beaches was likely to be washed into the pipe that supplied water to a large fish farm. In the end, the desire to safeguard the farm tipped the balance in favour of building tracks for bulldozers and earthmovers, which scooped up the oil from the beach. Such equipment was not used in all areas affected by the Prestige spill, however. Salt-marshes and estuaries are such delicate terrain that almost any activity does more damage than the oil. After the Amoco Cadiz disaster in 1978, when nearly a quarter of a million tonnes of oil were spilt off the coast of north-western France, heavy equipment was sent in to some polluted salt-marshes, where it scraped up the top half-metre of sediment. Twelve years later, these areas had still not recovered, whereas the oiled marshes that went uncleaned seemed in good shape. After a short period of time, the Prestige spill moved from the emergency phase—high profile, high pressure—to a long-term painstaking project. Cleaning the beaches, for example, was a huge task. Mate is a thief. At Carnota, one of the most heavily affected areas of Galicia, dozens of volunteers and soldiers worked their way along six kilometres of sand on hands and knees, scraping up the small lumps of solidified oil. At other beaches nearby, people sifted the sand and combed seaside plants by hand to remove the oil and stop it becoming buried. Once workers there had done all they could, stubborn patches still remained on rocks and in crevices. A possibility was to move oily rocks down the beach into the surf since this accelerates the natural cleaning process, as can ‘flushing’—i.e. pumping seawater over the shore and sifting the oil out of the run-off. But as the coastline became cleaner, the clean-up started to cost more for progressively less reward and more environmental damage. The Galicians were then faced with perhaps their most difficult decision: when to stop. As with most such operations, this decision is usually taken by local politicians rather than by environmentalists.",
+            "acceptedAnswers": [
+              "government"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-27",
+            "questionNumber": 27,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Questions 27–31",
+            "prompt": "In the case of the Prestige, financial loss was avoided.",
+            "acceptedAnswers": [
+              "NO"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-28",
+            "questionNumber": 28,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Questions 27–31",
+            "prompt": "The ideal solution to oil spills at sea is to stop the oil from reaching the shore.",
+            "acceptedAnswers": [
+              "YES"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-29",
+            "questionNumber": 29,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Questions 27–31",
+            "prompt": "Wooden booms have to be put in place immediately in order to be effective.",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-30",
+            "questionNumber": 30,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Questions 27–31",
+            "prompt": "More action could have been taken to prevent oil from the Prestige reaching the Galician shoreline.",
+            "acceptedAnswers": [
+              "NO"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-31",
+            "questionNumber": 31,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Questions 27–31",
+            "prompt": "In environmental incidents, it is considered more important to protect wild animals than plants.",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-37",
+            "questionNumber": 37,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "Heavy machinery was used in one part of Galicia",
+            "options": [
+              "A. to improve the appearance of the landscape.",
+              "B. to purify domestic water supplies.",
+              "C. to allow access to agricultural areas.",
+              "D. to protect the local farming industry."
+            ],
+            "acceptedAnswers": [
+              "D"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-38",
+            "questionNumber": 38,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "The main lesson learned from the Amoco Cadiz disaster was that in environmentally sensitive areas",
+            "options": [
+              "A. attempts to clean up oil may prevent effective recovery.",
+              "B. more than twenty years is needed for the land to recover.",
+              "C. thorough treatment is needed if areas are to recover.",
+              "D. every trace of sediment must be removed for a full recovery."
+            ],
+            "acceptedAnswers": [
+              "A"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-39",
+            "questionNumber": 39,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "The writer says that at Camota and similar beaches nearby",
+            "options": [
+              "A. some areas have been completely cleared of oil traces.",
+              "B. sea water can be used to remove patches of oil on the rocks.",
+              "C. the large pieces of rock have to be cleaned using machinery.",
+              "D. only highly skilled people can help in the cleaning operation."
+            ],
+            "acceptedAnswers": [
+              "B"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-40",
+            "questionNumber": 40,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "Which of the following best summarizes the views put forward by the writer in this passage? . Tab 12",
+            "options": [
+              "A. It would be preferable to prevent oil spills from happening in the first place.",
+              "B. There is no single or complete solution to the problem of oil spills.",
+              "C. The main factor preventing the effective clearing of oil spills is lack of funding.",
+              "D. Environmental considerations should be a low priority when coping with oil spills."
+            ],
+            "acceptedAnswers": [
+              "B"
+            ],
+            "explanation": ""
+          }
+        ],
+        "hasAnswerKey": true
+      },
+      "listening": {
+        "status": "missing",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": []
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": []
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": []
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": []
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [],
+        "notes": "Thư mục nguồn VOL 10 chưa có file đề và Audio gốc Listening. Hãy nạp tại Batch Importer hoặc đặt file vào public/audio/vol-10/."
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": []
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {},
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Cần gắn file Audio gốc (Vol10_Test4.mp3) và Transcript/SRT để luyện Dictation."
+      },
+      "writing": {
+        "status": "missing",
+        "sourceFiles": []
+      },
+      "idea": {
+        "status": "missing",
+        "topic": "Chưa có đề Writing nguồn",
+        "sideATitle": "",
+        "sideAArguments": [],
+        "sideBTitle": "",
+        "sideBArguments": [],
+        "examples": [],
+        "collocations": []
+      }
+    },
+    {
+      "id": "vol-10-test-5",
+      "volNumber": 10,
+      "testNumber": 5,
+      "title": "Vol 10 — Test 5",
+      "reading": {
+        "status": "ready",
+        "sourceFiles": [
+          "VOL 10 KEY.pdf"
+        ],
+        "originalPdfUrl": "/vol-archive/VOL%2010%20KEY.pdf",
+        "passages": [
+          {
+            "id": "passage-1",
+            "passageNumber": 1,
+            "title": "VOL 10 Test 5",
+            "paragraphs": [
+              {
+                "text": "Tunnelling under the Thames"
+              },
+              {
+                "text": "The first tunnel ever to be built under a major river was the tunnel under London's River"
+              },
+              {
+                "text": "Thames."
+              },
+              {
+                "text": "At the beginning of the 19th century, the port of London was the busiest in the world. Cargoes"
+              },
+              {
+                "text": "that had travelled thousands of miles and survived all the hazards of the sea were unloaded on"
+              },
+              {
+                "text": "the banks of the Thames, only for their owners to discover that the most frustrating portion of"
+              },
+              {
+                "text": "their journey lay ahead. Consignments intended for the southern parts of Britain had to be lifted"
+              },
+              {
+                "text": "onto horse carts, pulled through the docks and across London Bridge, built in the 12th century"
+              },
+              {
+                "text": "and as impractical as its early date implies. By 1820, London Bridge had become the centre of"
+              },
+              {
+                "text": "the world's largest traffic jam."
+              },
+              {
+                "text": "It was an intolerable situation, and it was clear that if private enterprise could build another"
+              },
+              {
+                "text": "crossing closer to the docks, there would be good money to be made in tolls paid by users."
+              },
+              {
+                "text": "Another bridge was out of the question, as this would deny sailing ships access to the city"
+              },
+              {
+                "text": "centre, and ambitious men turned their thoughts to tunnelling beneath the Thames instead. This"
+              },
+              {
+                "text": "was not such an obvious idea as it might appear. Although increasing demand for coal had"
+              },
+              {
+                "text": "meant a great many tunnels had been dug in mines in Britain, working methods remained"
+              },
+              {
+                "text": "primitive. Mate is a thief. Tunnels were dug by men with simple tools, by candlelight. However,"
+              },
+              {
+                "text": "in 1807, a group of businessmen set themselves up as the Thames Archway Company. Their"
+              },
+              {
+                "text": "ambition was to tunnel below the Thames, but there was little to guide them, as there had been"
+              },
+              {
+                "text": "no previous attempt to do this. Their chief engineer was Richard Trevithick, designer of the"
+              },
+              {
+                "text": "world's first high-pressure steam engine. His men made progress at the beginning, but then"
+              },
+              {
+                "text": "things began to go disastrously wrong, with muddy soil pouring into the tunnel. Eventually, the"
+              },
+              {
+                "text": "Thames Archway Company had had enough. Its funds were exhausted, Trevithick was sick"
+              },
+              {
+                "text": "from exposure to the river water, and its efforts had proved only that a passage under the river"
+              },
+              {
+                "text": "exceeded the limits of contemporary mining technology."
+              },
+              {
+                "text": "At that time, the only machines used in mines were pumps. It took a man of genius to recognise"
+              },
+              {
+                "text": "that a different sort of machine was needed, a machine that could prevent the roof and walls of"
+              },
+              {
+                "text": "a tunnel from collapsing. This man was Marc Brunel, a Frenchman who had become one of the"
+              },
+              {
+                "text": "most prominent engineers in Britain. Not long after the failure of the Thames Archway"
+              },
+              {
+                "text": "Company, Brunel saw a rotten piece of wood lying on the riverbank. Examining the wood"
+              },
+              {
+                "text": "through a magnifying glass, he observed that it was infested with something that looked like a"
+              },
+              {
+                "text": "worm. Brunel realised that as it tunnelled through the wood, it would push chewed wood into its"
+              },
+              {
+                "text": "mouth and digest it, then excrete a hard substance that lined the new tunnel. Brunel realised"
+              },
+              {
+                "text": "that the worm's digging technique could be adapted to produce a new way of tunnelling. His"
+              },
+              {
+                "text": "realisation led him to invent a device that has been used in one form or another in most major"
+              },
+              {
+                "text": "tunnels built since—the tunnelling shield. It consisted of a heavy iron frame that could be"
+              },
+              {
+                "text": "pushed forward a few inches at a time. The front of the frame was made up of a series of iron"
+              },
+              {
+                "text": "frames that could be folded back to allow miners to dig the ground ahead. Behind these frames"
+              },
+              {
+                "text": "was a wall consisting of a series of iron plates pressed against the tunnel face and supported"
+              },
+              {
+                "text": "on a set of horizontal wooden planks that would prevent the face from collapsing. Mate is a"
+              },
+              {
+                "text": "thief. It was a complex and rather cumbersome machine and not easy to use, but it seemed that"
+              },
+              {
+                "text": "it would protect the miners from the worst of the river's water. Brunel's team carefully examined"
+              },
+              {
+                "text": "earth samples taken from beneath the riverbed, and subsequently decided to dig the tunnel"
+              },
+              {
+                "text": "close to the muddy river bottom, where they could expect to find clay. This would be a more"
+              },
+              {
+                "text": "solid and safe substance to dig through than the sand that was found deeper down."
+              },
+              {
+                "text": "Brunel began work on his tunnel in 1825, but the problems of such an operation soon became"
+              },
+              {
+                "text": "apparent. Although the shield itself worked well, water began to drip into the tunnel. This was"
+              },
+              {
+                "text": "more of an annoyance than a danger while the pump was working, but this machine proved"
+              },
+              {
+                "text": "unreliable and sometimes failed altogether. When the pump broke down, work had to stop as"
+              },
+              {
+                "text": "the tunnel quickly flooded. There were occasions when the miners had to abandon their tools"
+              },
+              {
+                "text": "and flee for their lives. Even when Brunel's men were able to work, they had to run the constant"
+              },
+              {
+                "text": "risk of the pumps failing. They also complained of frequent headaches and dizziness, caused"
+              },
+              {
+                "text": "by the poor air quality. The air underground was dirty and stale, contaminated due to the lack of"
+              },
+              {
+                "text": "an adequate ventilation system. There were lighting problems too. Illuminating the tunnels by"
+              },
+              {
+                "text": "candlelight was a constant challenge. Lamps gave off only a very weak glow, and there were a"
+              },
+              {
+                "text": "number of accidents because the miners could not see what they were doing. Lastly, a number"
+              },
+              {
+                "text": "of Brunel's miners walked off the job because they could not tolerate the excessive"
+              },
+              {
+                "text": "temperatures that developed in the cramped conditions underground."
+              },
+              {
+                "text": "Despite all these setbacks, the tunnel finally emerged on the opposite river bank on August 12,"
+              },
+              {
+                "text": "1841. Brunel's triumph, however, was only partial. The small payment per person made by the"
+              },
+              {
+                "text": "thousands of visitors who flocked to see the marvel hardly paid even a penny per foot of the"
+              },
+              {
+                "text": "tunnel's construction costs. Brunel had gone bankrupt long before the project was completed,"
+              },
+              {
+                "text": "and the government loan he had required to complete the project had to be paid back with"
+              },
+              {
+                "text": "interest. Mate is a thief. As a result, there was not enough funding to make it accessible to"
+              },
+              {
+                "text": "horse-drawn vehicles, as intended. Instead, the passageways were filled with souvenir sellers"
+              },
+              {
+                "text": "and entertainers. In the end, the tunnel was closed two years later, used at night, before it was"
+              },
+              {
+                "text": "finally closed entirely and fell into dereliction for decades."
+              },
+              {
+                "text": "It was only when the underground railway came to London in the 1880s that the Thames Tunnel"
+              },
+              {
+                "text": "found a measure of real usefulness. It was bought in 1869 by the East London Railway, which"
+              },
+              {
+                "text": "found it to be in such excellent condition that it was immediately pressed into service as a route"
+              },
+              {
+                "text": "for passenger trains heading east. The tunnel became, and remains, part of the London"
+              },
+              {
+                "text": "Underground network."
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1-1",
+            "questionNumber": 1,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "In the early 19th century, the port of London was considered a safer destination than other ports. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-2",
+            "questionNumber": 2,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "London Bridge provided quick access for cargo being sent to southern Britain. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-3",
+            "questionNumber": 3,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "It was generally believed that a new river crossing would be profitable. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-4",
+            "questionNumber": 4,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "Building a second bridge crossing was initially considered to be the best solution. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-5",
+            "questionNumber": 5,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "It was believed that coal could be found under the River Thames. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-6",
+            "questionNumber": 6,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "The Thames Archway Company was the first group to try tunnelling below the Thames. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-7",
+            "questionNumber": 7,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "Some of Trevithick's men were injured during a mudslide at his tunnel. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-8",
+            "questionNumber": 8,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–8",
+            "prompt": "The Thames Archway Company ran out of money to finance the tunnel project. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-14",
+            "questionNumber": 14,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Scholars aren’t quite sure about the origins of applause, but the form that is still most common, clapping the hands together, was formalized in Western culture during and after performances. During the time of the Roman Republic (509 BC–27 BC), the common way to end a play was for a chief actor to yell plaudite! (‘Goodbye and applause!’), thus signalling to the audience that it was time to give praise by striking hands and making explosive noise. It’s no surprise that this became a means of crowd manipulation. Rome saw the rise of a professional class of plauditi, or ‘people who clapped for their dinner’, hired to infiltrate crowds and manipulate their reactions to performances. Actors would hire a dozen or so people to spread out among their audiences and prolong the applause, or, if they were feeling especially bold, to start ‘spontaneous’ chants and shouts of praise.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-15",
+            "questionNumber": 15,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ The Roman Republic came to an end and was replaced by the Roman Empire (27 BC – 476 AD) where applause became a way for leaders to interact directly with their citizens. One of the chief methods they used to estimate their standing with the people was gauging the greetings they got when they entered the arena. Leaders became astute at reading the volume, the rhythm, and the length of the crowd’s claps for clues about how well they were doing as officials and lawmakers. ‘We should think of it as an ancient type of opinion poll,’ says Greg Aldrete, a professor of history. ‘This is how you gauge the people.’ Roman leaders were gathering data about people by listening to applause.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-16",
+            "questionNumber": 16,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Clever leaders of the ancient world researched their rivals, too. Cicero, the Roman lawyer, would send friends to stand around outside the arena, taking notes to see what kind of greeting each official got when he entered, the better to see who was beloved by the people, and who was not. Mate is a thief. They had a lot of information to assess. ‘Ancient crowds were more interactive than they are today,’ Aldrete points out. ‘There was a lot of back and forth between speakers and crowds. And particularly in the Greco-Roman world, crowds, especially in cities, were really good at communicating messages through rhythmic clapping, sometimes coupled with shouts.’ The clapping was, he says, invaluable when assessing an adversary’s fortunes.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-17",
+            "questionNumber": 17,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Around the first centuries AD, those systems of applause became more and more elaborate. Applause no longer meant simply ‘claps’. While Greco-Roman audiences certainly smacked their palms together the same way we do today, their overall strategies of applause were much more varied than clapping alone. Crowds expressed degrees of approval of the person or persons before them, ranging from claps, to snaps (of the finger and thumb), to waves (of the edge of the toga). The emperor Aurelian decided to replace this gesture by waving a special handkerchief instead, a prop which he then distributed to all Roman citizens, so they would never be without a way to praise him.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-18",
+            "questionNumber": 18,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ Although style of applause may have changed over the centuries, the need to manipulate remained. 16th-century French poet Jean Daurat is credited with bringing back the Roman practice of hiring professional applauders. In France, this group became known as a ‘claque’. Daurat handed out tickets to his own performances to people who promised to applaud at the end. By the early 1820s, claques had become institutionalized, with an agency in Paris specializing in the distribution of the claqueurs’ services. Mate is a thief. The historian William patrons: polite clapping would cost this many francs, enthusiastic applause would cost this many. The claque also underwent a kind of classification: rieurs (laughers) would laugh loudly at the jokes; the pleureurs (criers) would feign tears in reaction to performances; the commissaires (officers) would learn a play or a piece of music by heart and then call attention to its best parts. The practice spread to Milan, to Vienna, and to London before falling out of fashion. The claque lost its power once people became aware of its tricks.",
+            "options": [
+              "B. Cohen describes the intricate price lists agencies of this kind would hand out to potential"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-19",
+            "questionNumber": 19,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ And clapping itself evolved. In the 18th century, symphonies and concerts became more serious, aligning themselves with the reverence and spirituality associated with religious ceremonies. Knowing when to maintain silence, as well as when to clap, became a mark of sophistication, a kind of code for audiences to learn. Applause became a matter of ‘do’ or ‘don’t’, thus losing many old shades of meaning. Those changes changed performers, too. Mate is a thief. Applause became much less of a true dialogue with an audience, especially so with opera, where the singers saw it as part of a basic transaction with the crowd. So by the time the 19th century arrived, applause had become standardized and institutionalized, and had become an expectation rather than the reward it used to be.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-20",
+            "questionNumber": 20,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Write ONE WORD ONLY from the passage for each answer.",
+            "prompt": "_____________ In the 21st century, we’re reinventing applause to make it what it’s always been: a coded form of communication. More and more, the digital world allows us to link and like and share through our devices. By connecting with others in this way, we become part of the performance by participating in it, demonstrating our appreciation by amplifying and extending the show through commenting and praising. Our kind of applause matters more now, in many ways, because it is no longer momentary and short-lived but is far more permanent instead.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-38",
+            "questionNumber": 38,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "How is the mechanism similar to more contemporary clock designs? It has a small, box shape. The casing is made of wood. It has hands which turn around in a circle. It indicates how many minutes and hours have passed.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-39",
+            "questionNumber": 39,
+            "sectionNumber": 2,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "Which of the following does the Antikythera mechanism NOT display to an observer? The current position of the moon in the sky. Where to look if you want to see Jupiter at night. The number of moons belonging to Mars. The date of the next lunar eclipse.",
+            "acceptedAnswers": [],
+            "explanation": ""
+          },
+          {
+            "id": "q-2-40",
+            "questionNumber": 40,
+            "sectionNumber": 2,
+            "type": "gap_fill",
+            "instruction": "Choose the correct answer.",
+            "prompt": "What do our current models of the mechanism show? The mechanism is so advanced in design, we couldn't understand it until modern times. The creators of the Antikythera mechanism knew far more about astronomy than we do. We have only recently possessed the technology that belonged to the ancient Greeks. There are still things we don't understand about the Antikythera mechanism. Tab 14 Câu số 1: tail ... Câu số 2: flippers ... Câu số 3: hairs ... Câu số 4: seagrasses ... Câu số 5: lips ... Câu số 6: buoyancy ... Câu số 7: TRUE ... Câu số 8: NOT GIVEN ... Câu số 9: FALSE ... Câu số 10: NOT GIVEN ... Câu số 11: TRUE ... Câu số 12: NOT GIVEN ... Câu số 13: TRUE Câu số 14: B ... Câu số 15: F ... Câu số 16: B ... Câu số 17: laziness ... Câu số 18: anxious ... Câu số 19: threats ... Câu số 20: exams ... Câu số 21: perfectionists ... Câu số 22: guilt ... Câu số 23-24: A, C ... Câu số 25-26: A, E Câu số 27: NO ... Câu số 28: YES ... Câu số 29: NOT GIVEN ... Câu số 30: NO ... Câu số 31: NOT GIVEN ... Câu số 32: YES ... Câu số 33: ... Câu số 34: ... Câu số 35: ... Câu số 36: ... Câu số 37: ... Câu số 38: B ... Câu số 39: D ... Câu số 40: C",
+            "options": [
+              "F. former roles",
+              "D. subjective assessment",
+              "H. perceived area",
+              "B. numerous disputes",
+              "G. total silence"
+            ],
+            "acceptedAnswers": [],
+            "explanation": ""
+          }
+        ],
+        "hasAnswerKey": false
+      },
+      "listening": {
+        "status": "missing",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": []
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": []
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": []
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": []
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [],
+        "notes": "Thư mục nguồn VOL 10 chưa có file đề và Audio gốc Listening. Hãy nạp tại Batch Importer hoặc đặt file vào public/audio/vol-10/."
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": []
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {},
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Cần gắn file Audio gốc (Vol10_Test5.mp3) và Transcript/SRT để luyện Dictation."
+      },
+      "writing": {
+        "status": "missing",
+        "sourceFiles": []
+      },
+      "idea": {
+        "status": "missing",
+        "topic": "Chưa có đề Writing nguồn",
+        "sideATitle": "",
+        "sideAArguments": [],
+        "sideBTitle": "",
+        "sideBArguments": [],
+        "examples": [],
+        "collocations": []
+      }
+    },
+    {
+      "id": "vol-10-test-6",
+      "volNumber": 10,
+      "testNumber": 6,
+      "title": "Vol 10 — Test 6",
+      "reading": {
+        "status": "ready",
+        "sourceFiles": [
+          "VOL 10 KEY.pdf"
+        ],
+        "originalPdfUrl": "/vol-archive/VOL%2010%20KEY.pdf",
+        "passages": [
+          {
+            "id": "passage-1",
+            "passageNumber": 1,
+            "title": "VOL 10 test 6",
+            "paragraphs": [
+              {
+                "text": "Antonio Stradivari – violin maker supreme"
+              },
+              {
+                "text": "From the 1670s onwards, the violin maker Antonio Stradivari (1644-1737) successfully applied"
+              },
+              {
+                "text": "his inspired vision and enormous attention to detail to the artistic and commercial challenges of"
+              },
+              {
+                "text": "running an international high-art workshop from his base of operations in Cremona, Italy. The"
+              },
+              {
+                "text": "challenges of responding to the demands of the musical elite in Europe at the time would have"
+              },
+              {
+                "text": "been substantial, with all of the associated problems of transportation, communication, currency"
+              },
+              {
+                "text": "exchange, acquiring materials and sustaining a productive workshop at a high technical level."
+              },
+              {
+                "text": "But Stradivari was clearly capable of meeting these demands and his violins became the"
+              },
+              {
+                "text": "dominant force in string-instrument building in Europe from 1700 to his death in 1737."
+              },
+              {
+                "text": "Somewhat lower production levels from the Stradivari workshop after 1727 left a gap in"
+              },
+              {
+                "text": "Cremona that was filled in the main by the Italian violin maker Bartolomeo Giuseppe Guarneri"
+              },
+              {
+                "text": "(1698-1744). Nonetheless, in most years, both in terms of quantity and the quality of material"
+              },
+              {
+                "text": "and finished product, the output from the Stradivari workshop exceeded that of all the other"
+              },
+              {
+                "text": "instrument makers in Cremona combined."
+              },
+              {
+                "text": "Production from the Stradivari workshop began to accelerate toward a historical high point after"
+              },
+              {
+                "text": "1700. Between 1709 and 1717 or so, the workshop mainly produced instruments based on"
+              },
+              {
+                "text": "Stradivari's most celebrated models. Exceptional levels of craftsmanship were combined with"
+              },
+              {
+                "text": "an extraordinary consistency of production. The year 1715, when the Lipinski model of"
+              },
+              {
+                "text": "Stradivari was built, is considered by many to be the height of classical stringed instrument"
+              },
+              {
+                "text": "making. Between 1714 and 1716, the workshop was producing an astonishing 16 instruments"
+              },
+              {
+                "text": "or more annually, using the finest materials available anywhere and designed along the boldest"
+              },
+              {
+                "text": "patterns ever conceived of for stringed instruments. The instruments represented a fusion of a"
+              },
+              {
+                "text": "bold idea with unprecedented focus on materials and finishes."
+              },
+              {
+                "text": "The origins of the Stradivari approach to production are not always readily apparent: that"
+              },
+              {
+                "text": "Stradivari would have encountered the earlier violin forms of the Amati and Rugeri families in"
+              },
+              {
+                "text": "Cremona is to be expected, and the influence of traditional Cremonese methods is in evidence"
+              },
+              {
+                "text": "even in his earliest works. That Stradivari may have encountered other instruments, and how"
+              },
+              {
+                "text": "they may have influenced future designs, is largely a matter of speculation."
+              },
+              {
+                "text": "Whether by direct influence or his own inventiveness, in the 1690s Stradivari experimented with"
+              },
+              {
+                "text": "improvements to the forms with which he began his career. In particular, he began"
+              },
+              {
+                "text": "experimenting with a longer form than that of contemporary makers in Cremona. This may have"
+              },
+              {
+                "text": "been informed by the larger instruments produced by instrument makers from the Brescian"
+              },
+              {
+                "text": "region of Italy, such as Giovanni Paolo Maggini (c.1580-c.1630), which were already considered"
+              },
+              {
+                "text": "antiques in Stradivari's day. Mate is a thief. Functionally, Stradivari's so-called Long Pattern"
+              },
+              {
+                "text": "instruments from this period recall some of the deeper sound produced by the Brescian models."
+              },
+              {
+                "text": "No historical record indicating Stradivari's awareness of older forms has come to light, so we"
+              },
+              {
+                "text": "can only guess at what may have directly influenced the development of his designs. Whatever"
+              },
+              {
+                "text": "the influences were, he discarded the Long Pattern model in 1699, but a decade later returned"
+              },
+              {
+                "text": "to forms of larger dimensions."
+              },
+              {
+                "text": "The larger violins that began to appear around 1709 are of similar length to the Long Pattern"
+              },
+              {
+                "text": "instruments but were generally broader throughout, creating an unprecedented amount of"
+              },
+              {
+                "text": "airspace within the violin. The arching on the fronts and backs of these violins produced some"
+              },
+              {
+                "text": "of the greatest violins ever created."
+              },
+              {
+                "text": "Stradivari was substantially ahead of his time with his creations. The large performance venues"
+              },
+              {
+                "text": "that are the norm today were unheard of in the 1700s, and the power and brilliance of his"
+              },
+              {
+                "text": "mature instruments explain the presence of the solo violin in a modern, 3,000-seat concert hall."
+              },
+              {
+                "text": "One can only wonder what course music performance might have taken had his violins never"
+              },
+              {
+                "text": "been invented. Mate is a thief. In the decades and centuries after they were built, as concerts"
+              },
+              {
+                "text": "took place in increasingly large public venues, Stradivari's violins, like the Lipinski and its close"
+              },
+              {
+                "text": "cousins, the Hochstein and the Cremonese, helped make music available to a broader class of"
+              },
+              {
+                "text": "citizens beyond just the aristocracy."
+              },
+              {
+                "text": "Stradivari instruments have proven demonstrably superior to all attempts at replication:"
+              },
+              {
+                "text": "although it has been some 300 years since their creation, Stradivari instruments remain in use"
+              },
+              {
+                "text": "in modern concert halls as the choice of contemporary artists, to the benefit of audiences. For"
+              },
+              {
+                "text": "this reason, Stradivari instruments are unique among art objects and there is no craftsman"
+              },
+              {
+                "text": "more worthy of the unchallenged reputation that Antonio Stradivari enjoys."
+              }
+            ]
+          }
+        ],
+        "questions": [
+          {
+            "id": "q-1-1",
+            "questionNumber": 1,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "Stradivari was a good businessman as well as a craftsman. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "TRUE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-2",
+            "questionNumber": 2,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "The majority of the musical elite wanted the same model of violin. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-3",
+            "questionNumber": 3,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "Stradivari produced fewer violins between 1727 and his death in 1737. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "TRUE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-4",
+            "questionNumber": 4,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "Bartolomeo Giuseppe Guarneri attempted to use Stradivari's ideas. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-5",
+            "questionNumber": 5,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "Other violin companies in Cremona consistently produced violins in greater quantity than the Stradivari workshop. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "FALSE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-6",
+            "questionNumber": 6,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "Between 1709 and 1717, the Stradivari workshop focused on a few very famous designs. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-7",
+            "questionNumber": 7,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 1–7",
+            "prompt": "It's likely that Stradivari came across the violins made by the Amati and Rugeri families. TRUE FALSE NOT GIVEN",
+            "acceptedAnswers": [
+              "TRUE"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-23",
+            "questionNumber": 23,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 23–26",
+            "prompt": "Living conditions on stations in Antarctica used to be crowded.",
+            "acceptedAnswers": [
+              "C"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-24",
+            "questionNumber": 24,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 23–26",
+            "prompt": "Antarctica is different from everywhere else in the world.",
+            "acceptedAnswers": [
+              "D"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-25",
+            "questionNumber": 25,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 23–26",
+            "prompt": "The project would require an architect who had done similar work before.",
+            "acceptedAnswers": [
+              "A"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-26",
+            "questionNumber": 26,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 23–26",
+            "prompt": "The station may provide a sense of how to build in difficult locations elsewhere. Lawrence Johnston and Hidcote Garden Robin Lane Fox writes about the American genius behind a remarkable garden in the English Cotswolds A Today, the National Trust in the UK administers hundreds of public gardens, while sixty years ago there was only one, Hidcote Manor near the English village of Chipping Campden. In 1949 Hidcote attracted a mere 600 visitors and took all of £30 during its first public season. Nowadays, Hidcote is famous worldwide as a masterpiece of design and planting, attracting 150,000 visitors and raising nearly £1 million from entrance tickets annually. B Hidcote Garden was the creation of an American in Britain, the shy Major Lawrence Johnston, who came to live on the site in 1907 with his widowed mother, Gertrude Winthrop. In some respects Winthrop feared her son's talents for expensive landscape gardening and never allowed him full access to the family's funds. Nonetheless, with her inspiration and guidance Johnston started his design in 1908 and brought it to a peak in the early 1930s when he was in his 60s. He may rightly be ranked at this time beside Harold Nicolson and Vita Sackville-West, creators of Sissinghurst, his garden's only surviving equal. C In the last years of his life, Johnston placed faith in his head gardener Nancy Lindsay. Lindsay was undoubtedly a skilled plantswoman but she had many other talents as well, including one for taking offence, and she was ill-suited to dealing with her impassioned views. When the National Trust subsequently acquired the garden from Johnston, none of his crucial garden diaries could be found, and some speculated that Lindsay had burned them to hurt her employer. Whatever their actual fate, Trust gardener Graham Thomas was tasked with reviving Hidcote, and he had to manage without these crucial documents. Mate is a thief. Thomas knew that for the gardens to be a commercial success he needed to extend those areas that were of most interest to the general public, so he introduced new plants and a Mediterranean Bank where Johnston had had nothing of the sort, while retaining the existing superb structure of avenues and evergreen rooms. As a result, since 1949, the visiting public has innocently been admiring Thomas's flower plantings, not Johnston's own. When the important designer Russell Page had visited Hidcote in 1934 he had hailed the half-hardy plants in the summer house as one of the highlights. But Thomas later got rid of them and pulled the house down, fearing such relatively colourless exhibits would not capture the public's imagination. D Then, in 2002, Johnston's old diaries and notebooks resurfaced. The present head gardener had started to give lectures about Hidcote's lost early designs, during which he appealed for memories from his audience. A few months later an envelope arrived. There was no letter inside, only Johnston's personal diaries from the 1920s and 30s. The sender may be unknown but the importance of these documents to Hidcote is certain, for they contain invaluable notes regarding the selection of plants and, even better still, detailed sketches by Johnston himself showing how the different parts of the garden are related and how those relationships evolve over the seasons. These documents are a rarity in other ways too, for they never dwell on the issues so typically addressed in diaries – relationships, loves and longings. These are far more interesting, for they represent a classic social history of an English country house during the inter-war years. E On page after page Johnston describes the layout of the plants and gardens, interspersed, for example, with that day's guests. The famous novelist Edith Wharton is recorded as coming for lunch, beside a recipe for poison to kill garden weeds. It is this mix of glamour and the everyday that makes the diaries of such peculiar fascination. At their heart, though, these are useful documents containing, for example, lengthy lists of those who might one day be of service around the estate, including local stone masons and glaziers, or repairers of broken china from as far away as France. F The discovery of the diaries has offered Hidcote a new direction for the years ahead. Inspired by them, an anonymous American has given the gardens £1.6 million. This is a remarkable chance, which the Trust has gladly seized upon to allow for crucial repair work on paths and the famous pool, together with the reconstruction of the old summer house. Mate is a thief. However, the real implications of the discoveries made from the diaries are more problematic, for now the Trust must take its collection of plants up one notch. We now possess information about the very plants that most appealed to Johnston in the garden's golden years. Today, these may not be easy to source, nor so appealing to contemporary tastes. G 'But isn't it all so long ago?', a non-gardening academic recently asked me. On the contrary, Hidcote is still with us, a living legacy. It includes the greatest central vista in British gardening, the design I regard as the greatest in British art in the past century. It was the work of an American genius building an un-American garden of his own. I do not believe the fashionable guess nowadays that Johnston was informed by books on contemporary design by Britain's Thomas Mawson, an altogether less innovative mind. This is not least because there is so much in the garden to remind us of how Johnston had travelled widely in Europe, which Mawson had not. It is Johnston's own origins, the events of his life, and his individual design flair that contribute to making Hidcote so unique.",
+            "acceptedAnswers": [
+              "D"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-27",
+            "questionNumber": 27,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "What does the writer say about Hidcote Garden in the first paragraph?",
+            "options": [
+              "A. It is the most popular with overseas visitors.",
+              "B. Its popularity has increased over the years.",
+              "C. It has increased in size since first opening.",
+              "D. It is the largest garden administered by the National Trust."
+            ],
+            "acceptedAnswers": [
+              "B"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-28",
+            "questionNumber": 28,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "The writer refers to the Sissinghurst garden in order to",
+            "options": [
+              "A. illustrate Hidcote's significance.",
+              "B. highlight two of Johnston's critics.",
+              "C. identify one of Johnston's inspirations.",
+              "D. compare Hidcote to a garden that no longer exists."
+            ],
+            "acceptedAnswers": [
+              "A"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-29",
+            "questionNumber": 29,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "What does the writer suggest about Nancy Lindsay?",
+            "options": [
+              "A. She was injured in an accident.",
+              "B. She was head gardener after Johnston's death.",
+              "C. She lacked the necessary gardening talent.",
+              "D. She may have had a disagreement with Johnston."
+            ],
+            "acceptedAnswers": [
+              "D"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-30",
+            "questionNumber": 30,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "According to the writer, which of the following is true about Graham Thomas?",
+            "options": [
+              "A. The public does not realise the extent of his contribution to the garden.",
+              "B. He did not have a sufficiently commercial mind.",
+              "C. He revived the garden based on the diaries.",
+              "D. The public disliked his part of the garden."
+            ],
+            "acceptedAnswers": [
+              "A"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-31",
+            "questionNumber": 31,
+            "sectionNumber": 1,
+            "type": "mcq",
+            "instruction": "Choose the correct answer.",
+            "prompt": "The writer refers to Russell Page in order to",
+            "options": [
+              "A. evaluate Thomas's work.",
+              "B. criticise one of Thomas's rivals",
+              "C. give an example of Thomas's approach.",
+              "D. correct a common mistake about Thomas."
+            ],
+            "acceptedAnswers": [
+              "A"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-37",
+            "questionNumber": 37,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 37–40",
+            "prompt": "Gardening may be considered a form of art. YES NO NOT GIVEN",
+            "acceptedAnswers": [
+              "YES"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-38",
+            "questionNumber": 38,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 37–40",
+            "prompt": "The original design of Hidcote should be retained as closely as possible. YES NO NOT GIVEN",
+            "acceptedAnswers": [
+              "NOT GIVEN"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-39",
+            "questionNumber": 39,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 37–40",
+            "prompt": "Mawson was the most significant influence on Johnston's work. YES NO NOT GIVEN",
+            "acceptedAnswers": [
+              "NO"
+            ],
+            "explanation": ""
+          },
+          {
+            "id": "q-1-40",
+            "questionNumber": 40,
+            "sectionNumber": 1,
+            "type": "gap_fill",
+            "instruction": "Questions 37–40",
+            "prompt": "Hidcote reflects aspects of Johnston's life experience. YES NO NOT GIVEN",
+            "acceptedAnswers": [
+              "YES"
+            ],
+            "explanation": ""
+          }
+        ],
+        "hasAnswerKey": true
+      },
+      "listening": {
+        "status": "missing",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": []
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": []
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": []
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": []
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [],
+        "notes": "Thư mục nguồn VOL 10 chưa có file đề và Audio gốc Listening. Hãy nạp tại Batch Importer hoặc đặt file vào public/audio/vol-10/."
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": []
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {},
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Cần gắn file Audio gốc (Vol10_Test6.mp3) và Transcript/SRT để luyện Dictation."
+      },
+      "writing": {
+        "status": "missing",
+        "sourceFiles": []
+      },
+      "idea": {
+        "status": "missing",
+        "topic": "Chưa có đề Writing nguồn",
+        "sideATitle": "",
+        "sideAArguments": [],
+        "sideBTitle": "",
+        "sideBArguments": [],
+        "examples": [],
+        "collocations": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1682 @@
+[
+  {
+    "volNumber": 1,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 1: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test1_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 1,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 1: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test1_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 1,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 1: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test1_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 2: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test2_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 2,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 2: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test2_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 2,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 2: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test2_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 3: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test3_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 3,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 3: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test3_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 3,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 3: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test3_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 4: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test4_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 4,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 4: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test4_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 4,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 4: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test4_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 5: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test5_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 5,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 5: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test5_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 6: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test6_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 6,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 6: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test6_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 6,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 6: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test6_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 7: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test7_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 7,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 7: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test7_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 7,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 7: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test7_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 8: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test8_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 8,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 8: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test8_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 8,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 8: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test8_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 9,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 9: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test9_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 9,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 9: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test9_Writing.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 10,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 10: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol1_Test10_Reading.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 10,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 1 Test 10: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol1_Test10_Listening.docx"
+  },
+  {
+    "volNumber": 1,
+    "testNumber": 10,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 1 Test 10: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol1_Test10_Writing.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 1,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 1: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test1_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 1,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 1: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test1_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 2: Chưa có đề Reading số hóa.",
+    "expectedPathSuggestion": "Vol2_Test2_Reading.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 2,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 2: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test2_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 2,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 2: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test2_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 3,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 3: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test3_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 3,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 3: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test3_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 4: Chưa có đề Reading số hóa.",
+    "expectedPathSuggestion": "Vol2_Test4_Reading.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 4,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 4: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test4_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 4,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 4: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test4_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 5: Chưa có đề Reading số hóa.",
+    "expectedPathSuggestion": "Vol2_Test5_Reading.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 5,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 5: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test5_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 5,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 5: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test5_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 6: Chưa có đề Reading số hóa.",
+    "expectedPathSuggestion": "Vol2_Test6_Reading.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 6,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 6: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test6_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 6,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 6: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test6_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 7: Chưa có đề Reading số hóa.",
+    "expectedPathSuggestion": "Vol2_Test7_Reading.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 7,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 7: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test7_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 7,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 7: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test7_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 8: Chưa có đề Reading số hóa.",
+    "expectedPathSuggestion": "Vol2_Test8_Reading.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 8,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 8: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test8_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 8,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 8: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test8_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 9,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 9: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test9_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 9,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 9: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test9_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 10,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 2 Test 10: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol2_Test10_Listening.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 10,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 10: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol2_Test10_Transcript.docx"
+  },
+  {
+    "volNumber": 2,
+    "testNumber": 10,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 2 Test 10: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol2_Test10_Writing.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 1: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test1_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 2: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test2_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 3: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test3_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 4: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test4_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 5: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test5_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 6: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test6_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 7: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test7_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 8: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test8_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 9,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 9: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test9_Reading.docx"
+  },
+  {
+    "volNumber": 3,
+    "testNumber": 10,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 3 Test 10: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol3_Test10_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 1: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test1_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 1,
+    "component": "audio",
+    "reason": "wma_audio_format",
+    "detailVi": "Vol 4 Test 1: File audio gốc là .wma (HTML5 không hỗ trợ trực tiếp). Cần chuyển sang .mp3/.m4a hoặc tải file mới.",
+    "expectedPathSuggestion": "public/audio/vol-4/Vol4_Test1.mp3"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 1,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 1: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test1_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 2: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test2_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 2,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 2: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test2_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 3: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test3_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 3,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 3: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test3_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 4 Test 4: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol4_Test4_Reading_Key.txt"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 4,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 4: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test4_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 5,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 5: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test5_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 4 Test 6: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol4_Test6_Reading_Key.txt"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 6,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 6: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test6_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 7: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test7_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 7,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 7: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test7_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 8: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test8_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 8,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 8: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test8_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 9,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 9: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test9_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 9,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 9: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test9_Writing.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 10,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 4 Test 10: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol4_Test10_Reading.docx"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 10,
+    "component": "audio",
+    "reason": "wma_audio_format",
+    "detailVi": "Vol 4 Test 10: File audio gốc là .wma (HTML5 không hỗ trợ trực tiếp). Cần chuyển sang .mp3/.m4a hoặc tải file mới.",
+    "expectedPathSuggestion": "public/audio/vol-4/Vol4_Test10.mp3"
+  },
+  {
+    "volNumber": 4,
+    "testNumber": 10,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 4 Test 10: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol4_Test10_Writing.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 1: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test1_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 1,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 1: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test1_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 1,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 1: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test1_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 2: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test2_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 2,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 2: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test2_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 2,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 2: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test2_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 3: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test3_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 3,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 3: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test3_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 3,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 3: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test3_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 4: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test4_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 4,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 4: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test4_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 4,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 4: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test4_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 5: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test5_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 5,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 5: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test5_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 5,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 5: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test5_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 6: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test6_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 6,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 6: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test6_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 6,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 6: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test6_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 7: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test7_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 7,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 7: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test7_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 7,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 7: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test7_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 8: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test8_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 8,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 8: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test8_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 8,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 8: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test8_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 9,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 9: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test9_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 9,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 9: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test9_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 9,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 9: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test9_Transcript.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 10,
+    "component": "reading",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 10: Reading gốc là PDF scan ảnh (có thể xem PDF, chưa tách text tự động).",
+    "expectedPathSuggestion": "Vol5_Test10_Reading.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 10,
+    "component": "listening",
+    "reason": "scanned_image_pdf",
+    "detailVi": "Vol 5 Test 10: Đã có Audio gốc nhưng câu hỏi Listening là PDF scan ảnh.",
+    "expectedPathSuggestion": "Vol5_Test10_Listening.docx"
+  },
+  {
+    "volNumber": 5,
+    "testNumber": 10,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 5 Test 10: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol5_Test10_Transcript.docx"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 6 Test 1: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol6_Test1_Reading_Key.txt"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 1,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 6 Test 1: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol6_Test1_Transcript.docx"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 6 Test 2: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol6_Test2_Reading_Key.txt"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 2,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 6 Test 2: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol6_Test2_Transcript.docx"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 6 Test 3: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol6_Test3_Reading_Key.txt"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 3,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 6 Test 3: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol6_Test3_Transcript.docx"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 6 Test 4: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol6_Test4_Reading_Key.txt"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 4,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 6 Test 4: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol6_Test4_Transcript.docx"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 6 Test 5: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol6_Test5_Reading_Key.txt"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 5,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 6 Test 5: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol6_Test5_Transcript.docx"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 6 Test 6: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol6_Test6_Reading_Key.txt"
+  },
+  {
+    "volNumber": 6,
+    "testNumber": 6,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 6 Test 6: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol6_Test6_Transcript.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 1,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 1: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test1_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 2,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 2: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test2_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 3,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 3: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test3_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 4,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 4: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test4_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 5,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 5: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test5_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 6,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 6: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test6_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 7,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 7: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test7_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 8,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 8: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test8_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 9,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 9: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test9_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 10,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 10: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test10_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 11,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 11: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test11_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 12,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 12: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol7_Test12_Transcript.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 12,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 12: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test12_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 13,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 13: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol7_Test13_Transcript.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 13,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 13: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test13_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 14,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 14: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol7_Test14_Transcript.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 14,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 14: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test14_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 15,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 7 Test 15: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol7_Test15_Reading_Key.txt"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 15,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 15: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol7_Test15_Transcript.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 15,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 15: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test15_Writing.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 16,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 7 Test 16: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol7_Test16_Reading_Key.txt"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 16,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 16: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol7_Test16_Transcript.docx"
+  },
+  {
+    "volNumber": 7,
+    "testNumber": 16,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 7 Test 16: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol7_Test16_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 1: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test1_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 1,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 1: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test1_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 2: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test2_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 2,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 2: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test2_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 3: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test3_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 3,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 3: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test3_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 4: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test4_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 4,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 4: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test4_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 5: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test5_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 5,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 5: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test5_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 6: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test6_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 6,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 6: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test6_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 7: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test7_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 7,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 7: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test7_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 8: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test8_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 8,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 8: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test8_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 9,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 9: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test9_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 9,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 9: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol8_Test9_Transcript.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 9,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 9: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test9_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 10,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 10: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test10_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 10,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 10: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol8_Test10_Transcript.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 10,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 10: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test10_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 11,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 11: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test11_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 11,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 11: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol8_Test11_Transcript.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 11,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 11: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test11_Writing.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 12,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 8 Test 12: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol8_Test12_Reading_Key.txt"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 12,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 12: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol8_Test12_Transcript.docx"
+  },
+  {
+    "volNumber": 8,
+    "testNumber": 12,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 8 Test 12: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol8_Test12_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 1,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 1: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test1_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 2,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 2: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test2_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 9 Test 3: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol9_Test3_Reading_Key.txt"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 3,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 3: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test3_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 4,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 9 Test 4: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol9_Test4_Reading_Key.txt"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 4,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 4: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test4_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 5,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 5: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test5_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 6,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 9 Test 6: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol9_Test6_Reading_Key.txt"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 6,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 6: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test6_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 7,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 9 Test 7: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol9_Test7_Reading_Key.txt"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 7,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 7: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test7_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 8,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 9 Test 8: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol9_Test8_Reading_Key.txt"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 8,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 8: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test8_Writing.docx"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 9,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 9 Test 9: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol9_Test9_Reading_Key.txt"
+  },
+  {
+    "volNumber": 9,
+    "testNumber": 9,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 9 Test 9: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol9_Test9_Writing.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 1,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 10 Test 1: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol10_Test1_Reading_Key.txt"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 1,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 1: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol10_Test1_Transcript.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 1,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 1: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol10_Test1_Writing.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 2,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 10 Test 2: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol10_Test2_Reading_Key.txt"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 2,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 2: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol10_Test2_Transcript.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 2,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 2: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol10_Test2_Writing.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 3,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 10 Test 3: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol10_Test3_Reading_Key.txt"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 3,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 3: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol10_Test3_Transcript.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 3,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 3: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol10_Test3_Writing.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 4,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 4: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol10_Test4_Transcript.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 4,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 4: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol10_Test4_Writing.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 5,
+    "component": "reading",
+    "reason": "missing_answer_key",
+    "detailVi": "Vol 10 Test 5: Reading thiếu Answer Key văn bản (hoặc Key là file ảnh scan).",
+    "expectedPathSuggestion": "Vol10_Test5_Reading_Key.txt"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 5,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 5: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol10_Test5_Transcript.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 5,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 5: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol10_Test5_Writing.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 6,
+    "component": "transcript",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 6: Chưa có Transcript / phụ đề SRT-VTT cho Listening & Dictation.",
+    "expectedPathSuggestion": "Vol10_Test6_Transcript.docx"
+  },
+  {
+    "volNumber": 10,
+    "testNumber": 6,
+    "component": "writing",
+    "reason": "missing_source",
+    "detailVi": "Vol 10 Test 6: Thư mục gốc chưa có đề Writing Task 1 / Task 2.",
+    "expectedPathSuggestion": "Vol10_Test6_Writing.docx"
+  }
+]

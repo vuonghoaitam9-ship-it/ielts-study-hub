@@ -1,0 +1,1452 @@
+{
+  "volNumber": 5,
+  "title": "Volume 5 — Original Exams (Test 1 – Test 10)",
+  "description": "Audio gốc MP3 cho cả 10 Test (38 file MP3) + Trích xuất trọn vẹn 10 bộ đề & bài mẫu Writing Task 1 / Task 2 kèm Idea Bank tương ứng.",
+  "tests": [
+    {
+      "id": "vol-5-test-1",
+      "volNumber": 5,
+      "testNumber": 1,
+      "title": "Vol 5 — Test 1",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%201/Test%201-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 1\\Test 1- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P1.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P1.mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P3.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P3.mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\Test 1- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P1.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P3.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 1\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/Test%201-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%201-%20vol%205-%20trans.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P1.mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P3.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%201/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\1 LINE - Income.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.1 BUILDING.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: LINE - Income (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "LINE - Income",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/1%20LINE%20-%20Income.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng LINE - Income.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The line chart shows the total percentage of income earned by the top 1% of the\n\npopulation in 7 different countries from 1975 to 2015.\n\nOverall, wealth distribution became more unequal over time, particularly in the United\n\nStates and to a lesser extent in Germany, Canada and the UK. Distributions were\n\nmore equal in the other nations though they increased overall.\n\nIn terms of the countries with the greatest increases, the United States rose steadily\n\nfrom 8% in 1975 to 9% by 1986 before a precipitous climb to 13% over the next\n\nseveral years and a surge with occasional fluctuations over the remainder of the\n\nperiod to finish at around 18%. The rises for Germany, the UK, and Canada followed\n\nsimilar though slightly lower trajectories with only\n\nthe former beginning high (11%) and all 3 nations finishing with comparable dips to\n\nnear 13% in 2015.\n\nFor the nations with more marginal rises, there were similar declines to near 2% for\n\nFrance, Japan, and Italy for the first decade in question prior to steady rises in the\n\n1980s. In 1990, France and Japan fell again to around 3%, though all 3 countries\n\nrecovered and continued to increase consistently until the end of the period, with final\n\nfigures just below 5%.\n\nWords: 209- band score: 8.0++"
+        },
+        "task2": {
+          "prompt": "Some people think that certain old buildings are more worth preserving than other ones. To what extent do you agree or disagree?",
+          "taskTypeLabel": "BUILDING",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.1%20BUILDING.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "While some argue that certain historic structures hold more value and should be carefully\n\npreserved, others contend that all old buildings warrant equal attention. In my opinion, there\n\nare particular buildings with cultural and community value that deserve prioritization.\n\nThere is tremendous value to maintaining buildings with significant historical importance.\n\nThese structures serve as tangible links to the past, showcasing architectural marvels and\n\npreserving ancestral links. For instance, ancient castles and palaces symbolize the\n\ngrandeur of bygone eras, offering a glimpse into the lives of kings, queens, and nobles. By\n\nsafeguarding these structures, we ensure that future generations can appreciate and\n\nconnect with their cultural heritage. These buildings also often showcase the craftsmanship\n\nand artistic vision of renowned architects and craftsmen. Take, for example, the iconic Taj\n\nMahal in India, a\n\ntestament to the exquisite beauty of Mughal architecture. Similarly, Gothic cathedrals,\n\nRenaissance villas, and Art Deco skyscrapers are not merely bricks and mortar; they are\n\nenduring artistic monuments.\n\nMoreover, preserving certain old buildings can contribute to the flourishing of a given\n\ncommunity or locale. Historic town centers, with quaint buildings and cobblestone streets,\n\ncreate a sense of place and give residents a shared heritage to cherish. These spaces\n\nfoster strong community bonds and attract tourists, boosting local economies through\n\nheritage tourism. Further restoration and adaptive reuse of these old buildings can generate\n\nlocal economic opportunities. Repurposing a historic building into a boutique hotel, a\n\nmuseum, or an art gallery not only revitalizes the structure but also stimulates job creation\n\nand economic growth. Such projects often attract private investors and public funding,\n\ninjecting resources into the local economy and enhancing the overall quality of life for\n\nresidents.\n\nIn conclusion, certain structures serve as living testaments to the past, encouraging feelings\n\nof identity and pride. Therefore, buildings should be selected that have inherent value and\n\nthey should be maintained by governments."
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "BUILDING",
+        "linkedPrompt": "BUILDING: Some people think that certain old buildings are more worth preserving than other ones. To what extent do you agree or disagree?",
+        "sideATitle": "Lợi ích bảo tồn & Quy hoạch bền vững",
+        "sideAArguments": [
+          "Bảo tồn công trình di sản duy trì bản sắc văn hóa lịch sử và thu hút du lịch bền vững.",
+          "Quy hoạch không gian công cộng thông minh (lối tiếp cận cho người khuyết tật, khu trưng bày) nâng cao chất lượng sống đô thị."
+        ],
+        "sideBTitle": "Thách thức chi phí & Hiện đại hóa",
+        "sideBArguments": [
+          "Chi phí bảo trì kiến trúc cổ cao, đôi khi không đáp ứng công năng và mật độ dân số hiện đại.",
+          "Giải pháp dung hòa: tái sử dụng thích ứng (adaptive reuse) giữ mặt tiền cổ nhưng nâng cấp tiện nghi bên trong."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"BUILDING: Some people think that certain old buildings are more worth preserving than other ones. To what extent do you agree or disagree?\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "architectural heritage",
+            "meaningVi": "di sản kiến trúc"
+          },
+          {
+            "phrase": "adaptive reuse",
+            "meaningVi": "tái sử dụng thích ứng"
+          },
+          {
+            "phrase": "prohibitive maintenance costs",
+            "meaningVi": "chi phí bảo trì đắt đỏ"
+          },
+          {
+            "phrase": "pedestrian accessibility",
+            "meaningVi": "khả năng tiếp cận cho người đi bộ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-2",
+      "volNumber": 5,
+      "testNumber": 2,
+      "title": "Vol 5 — Test 2",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%202/Test%202%20-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 2\\Test 2 - up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P1.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/P1.mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P3.wma",
+            "isWmaUnsupported": true
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\Test 2- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P1.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P3.wma",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 2\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/Test%202-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%202-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/P1.mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/P2.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%202/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\2 MIX - Foreign Tourists visiting a country.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.2 ANIMAL.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: MIX - Foreign Tourists visiting a country (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "MIX - Foreign Tourists visiting a country",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/2%20MIX%20-%20Foreign%20Tourists%20visiting%20a%20country.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng MIX - Foreign Tourists visiting a country.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The bar chart details the number of tourists visiting Country X from various parts of\n\nthe world and the table delineates the income of different businesses in the nation in\n\n2007 and 2008.\n\nOverall, tourism from all regions of the world declined, though less noticeably when\n\ncoming from the main sources of tourists: China, Japan, and Australia. All forms of\n\nrevenue also fell, with shops and tour services accounting for the majority of revenue\n\nby 2008.\n\nIn 2007, there were over 200,000 tourists from Europe and the US and Canada, with\n\nthe North American nations slightly higher. By 2008, both figures had dropped\n\ndramatically to 100,000 for the former and approximately 250,000 for the latter. In\n\ncontrast, the data points for China and Japan began the period muc h higher (nearly\n\n300,000) and fell less significantly (200,000). Similarly, Australian tourists numbered\n\n275,000 in 2007 and had declined marginally to 250,000 by the following year.\n\nIn terms of income in Country X, in 2019 hotels and resorts earned 3.5 m illion dollars,\n\nconsiderably more than restaurants, bars, and souvenir shops (2.4), transportation\n\nand travel agents (1.3), and tour guides, small vendors and other services (1.4). By\n\n2008, hotels and resorts had plunged to just $.5 million, dining options had halved to\n\n$1.2 million, and transportation had reduced to $.4 million. The most marginal decline\n\nwas f or tour services ($1.1 million)\n\nW ords: 227 words\n\nB and score: 8.0++"
+        },
+        "task2": {
+          "prompt": "In many countries, the number of animals and plants is declining. Why do you think this is happening? How can this issue be solved?",
+          "taskTypeLabel": "ANIMAL",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.2%20ANIMAL.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "The decline in the number of animal and plant species is a pressing issue facing many\n\ncountries worldwide. In my opinion, this is a result of human activity and can be countered\n\nby adopting sustainable policy initiatives.\n\nFewer animal and plant species is mainly a human problem. Firstly, there is now rampant\n\ndeforestation for agricultural expansion, logging, and infrastructure development. In the\n\nAmazon rainforest, pristine habitats are being cleared for cattle ranching, depriving\n\ncountless species of their natural homes. Relatedly, pollution, including industrial discharge\n\nand agricultural runoff, poses a significant threat. The global release of toxic chemicals into\n\nrivers and oceans leads to the death of marine life and disrupts delicate aquatic\n\necosystems. An additional human activity that deserves attention is illegal wildlife trade.\n\nThis practice is driven by high demand for exotic pets, traditional medicine, and animal\n\nparts, pushing many species towards endangerment and potential extinction.\n\nThe keys to reversing natural degradation are conservation and restoration efforts.\n\nBiodiversity conservation programs should focus on preserving and restoring specific\n\nhabitats. For instance, reforestation initiatives can aim to replant native tree species in\n\ndeforested areas, providing crucial habitats for various wildlife species. Marine protected\n\nareas can be established to safeguard vulnerable marine ecosystems and promote\n\nsustainable fishing practices. Captive breeding and reintroduction programs can help revive\n\nendangered species. Evidence for this approach comes from initiatives to breed and\n\nrelease critically endangered species like the black rhinoceros. Complementary sustainable\n\npractices in agriculture, forestry, and fishing can also be\n\npromoted to minimize human impact on ecosystems.\n\nDecreasing population figures for animal and plant species is a critical issue that demands\n\nimmediate attention and action. It is humanity's collective responsibility to protect and\n\nrestore the natural world given the origin of these issues.\n\nWord: 288\n\nBand score: 8.0++"
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "ANIMAL",
+        "linkedPrompt": "ANIMAL: In many countries, the number of animals and plants is declining. Why do you think this is happening? How can this issue be solved?",
+        "sideATitle": "Luận điểm bảo vệ hệ sinh thái & quyền động vật",
+        "sideAArguments": [
+          "Đa dạng sinh học giữ cân bằng chuỗi thức ăn tự nhiên và bảo vệ môi trường sống của con người.",
+          "Khai thác quá mức hoặc thử nghiệm thiếu kiểm soát gây tuyệt chủng không thể đảo ngược."
+        ],
+        "sideBTitle": "Cân bằng nghiên cứu khoa học & phát triển kinh tế",
+        "sideBArguments": [
+          "Một số nghiên cứu bảo tồn tại vườn thú chuẩn quốc tế hỗ trợ nhân giống các loài nguy cấp.",
+          "Chính sách thuế carbon và trợ cấp năng lượng sạch thúc đẩy doanh nghiệp chuyển đổi xanh."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"ANIMAL: In many countries, the number of animals and plants is declining. Why do you think this is happening? How can this issue be solved?\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "irreversible biodiversity loss",
+            "meaningVi": "mất đa dạng sinh học không thể đảo ngược"
+          },
+          {
+            "phrase": "ethical animal welfare",
+            "meaningVi": "phúc lợi động vật có đạo đức"
+          },
+          {
+            "phrase": "captive breeding programmes",
+            "meaningVi": "chương trình nhân giống bảo tồn"
+          },
+          {
+            "phrase": "sustainable resource allocation",
+            "meaningVi": "phân bổ tài nguyên bền vững"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-3",
+      "volNumber": 5,
+      "testNumber": 3,
+      "title": "Vol 5 — Test 3",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%203/TEST%203-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 3\\TEST 3- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\S1.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/S1.mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\P3.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/P3.mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\Test 3- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\S1.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\P3.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 3\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/Test%203-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%203-%20transcript.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/S1.mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/P2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/P3.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%203/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\3 MIX - unemployment rate.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.3 MUSIC.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: MIX - unemployment rate (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "MIX - unemployment rate",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/3%20MIX%20-%20unemployment%20rate.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng MIX - unemployment rate.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The line chart details the unemployment rate and number of people leaving Ireland\n\nfrom 1988 to 2008.\n\nOverall, the figures followed a roughly complementary pattern except for an extended\n\nperiod in the 1990s. Both data sets declined overall though individuals leaving the\n\ncountry ended with an upwards trend.\n\nIn 1988, 17% of individuals were unemployed in Ireland and a slightly lower 15.5%\n\ndecided to leave the country. Starting in 1990, the rates diverged with between 12%\n\nand 13% being unemployed up until 1996 and far fewer proportionally moving abroad\n\n(between 14% and 8%).\n\nAfter 1996, a steep drop in terms of unemployment (down to a low of 5% by 2000)\n\nrecreated a more symmetrical pattern. Individuals leaving the island nation was\n\nbroadly stable arou nd 7% before a sharp uptick over the final four years of the period\n\nto end at 13%. The rise for unemployment figures was more gradual and was finally\n\nregistered at 6%.\n\nWords: 155\n\nband score: 8.0++"
+        },
+        "task2": {
+          "prompt": "Some argue that music mainly serves as a way for individuals to reduce their stress and anxiety. To what extent do you agree or disagree?",
+          "taskTypeLabel": "MUSIC",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.3%20MUSIC.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "Many would argue that the purpose of music is to help individuals de-stress and\n\nrelax. In my opinion, although this is a key function, it is more important for music to\n\nuplift.\n\nThose in favor of considering music a form of relaxation point out how it is used by\n\nmost\n\nlisteners. Though this is impossible to verify empirically, most would concede on an\n\nanecdotal level that music is primarily used to relax. Students and workers on their\n\ndaily commute and after a long day listen to music to forget about their anxieties.\n\nScientific research has shown that listening to any genre of music results in reduced\n\nblood pressure and increased heart rate volatility, key indicators of lower stress\n\nlevels. Though music is also used at parties as a way to celebrate and have fun,\n\nthese situations are less common overall for the average subscriber to an application\n\nsuch as Spotify or Apple Music.\n\nHowever, there is a higher function of music that relates to raising one’s perspective\n\non life. When a person listens to a beautiful and meaningful song such as “Jealous\n\nGuy” by John Lennon or “No Woman, No Cry” by Bob Marley, they are being lifted by\n\nthe melody and lyrics. Similar to other forms of art, they present a way of seeing the\n\nworld that transforms ordinary life into an aesthetic experience. Some of these\n\naesthetic interpretations by artists may not always be positive, such as when a singer\n\nsings about loss or addiction, but they nonetheless ennoble and allow for greater\n\nunderstanding of the darkest elements of the human condition.\n\nIn conclusion, though music is one way of relaxing for many people, I would contend\n\nthat it’s mo st crucial aim is to enrich the world through a particular artistic\n\ninterpretation. It is still possible for particular listeners to enjoy music as they see fit.\n\nWords: 308\n\nBand score: 8.0++"
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "MUSIC",
+        "linkedPrompt": "MUSIC: Some argue that music mainly serves as a way for individuals to reduce their stress and anxiety. To what extent do you agree or disagree?",
+        "sideATitle": "Vai trò gắn kết cộng đồng & giá trị văn hóa",
+        "sideAArguments": [
+          "Âm nhạc, thể thao và nghệ thuật giúp giảm căng thẳng, kết nối đa thế hệ và nuôi dưỡng sáng tạo.",
+          "Truyền thông chất lượng cao nâng cao nhận thức cộng đồng về các vấn đề xã hội."
+        ],
+        "sideBTitle": "Mặt trái thương mại hóa & tin giả",
+        "sideBArguments": [
+          "Sự tôn sùng người nổi tiếng quá mức hoặc quảng cáo sai sự thật dễ định hướng lệch lạc giới trẻ.",
+          "Thuật toán mạng xã hội ưu tiên tin giật gân làm xói mòn chuẩn mực báo chí."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"MUSIC: Some argue that music mainly serves as a way for individuals to reduce their stress and anxiety. To what extent do you agree or disag...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "sensationalized media coverage",
+            "meaningVi": "đưa tin giật gân câu khách"
+          },
+          {
+            "phrase": "cultural enrichment",
+            "meaningVi": "làm phong phú đời sống văn hóa"
+          },
+          {
+            "phrase": "commercialization of art",
+            "meaningVi": "sự thương mại hóa nghệ thuật"
+          },
+          {
+            "phrase": "critical media literacy",
+            "meaningVi": "năng lực đọc hiểu truyền thông có chọn lọc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-4",
+      "volNumber": 5,
+      "testNumber": 4,
+      "title": "Vol 5 — Test 4",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%204/Test%204-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 4\\Test 4- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\p1.wma",
+            "isWmaUnsupported": true
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\p3.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/p3.mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\TEST 4_up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\p1.wma",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\p3.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 4\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/TEST%204_up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%204-%20transcript.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/P2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/p3.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%204/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\4 PIE - UK immigration.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.4 SPORTS.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: PIE - UK immigration (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "PIE - UK immigration",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/4%20PIE%20-%20UK%20immigration.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng PIE - UK immigration.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The pie charts detail the rationales for immigration to and emigration from the UK in\n\n2007.\n\nOverall, immigration was mainly related to various kinds of work, study, and\n\naccompanying someone, with no reasons stated and other less typical. Emigration\n\nwas similarly focused on work (non - definite work being more prevalent) but formal\n\nstudy was a less likely reason and less defined reasons were more common.\n\nIn terms of study and work, 30% of immigrants came to the UK for definite jobs, just\n\n1% above the n umber emigrating for the same purpose. The disparity regarding\n\nlooking for work was greater (12% for immigration and 22% for emigration) and even\n\nmore significant concerning formal study (26% immigrating and just 4% emigrating\n\nfor school).\n\nThere was relat ive alignment for other reasons with 11% immigrating with another\n\npurpose and 14% emigrating, comparable to the figures for accompanying another\n\nperson (15% and 13%, respectively). Finally, only 6% of individuals immigrate to the\n\nUnited Kingdom without a r eason, while three times this figure emigrate lacking a\n\nstated purpose.\n\nW ords: 171\n\nB and score: 8.0++"
+        },
+        "task2": {
+          "prompt": "Some people believe that professional athletes serve as positive role models for young people, while others argue that their behavior both on and off the field has a negative influence. Discuss both sides and give your opinion.",
+          "taskTypeLabel": "SPORTS",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.4%20SPORTS.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "While some argue that athletes are positive role models, inspiring young individuals\n\nto pursue their dreams and excel, others contend that their behavior is harmful on the\n\nwhole. In my opinion, despite the negatives, sports professionals are still generally\n\npositive role examples for younger people.\n\nOne legitimate criticism of athletes concerns incidences of aggressive behavior and\n\nsubstance abuse. These high-profile stories can have outsized influence on young\n\nand impressionable. minds. Well-publicized scandals involving certain NFL players,\n\nfor example, have highlighted the importance of addressing the anti-social behavior\n\nexhibited by athletes and its potential impact on fans. A fan who reads articles about\n\nathletes arrested for driving under the influence of alcohol or drugs or charged for\n\ndomestic violence assaults may over time become desensitized as to the serious\n\nnature of such offenses. In rare instances, they may even intentionally or\n\nunconsciously emulate these actions\n\nHowever, a more compelling argument in favor of professional athletes serving as\n\npositive role models relates to their character. Athletes generally possess unwavering\n\ndedication and perseverance. For instance, Serena Williams, a tennis legend,\n\nshowcases her relentless work ethic and determination to overcome barriers in a\n\npublic setting, inspiring countless young athletes to push past obstacles and achieve\n\ngreatness. Moreover, athletes often demonstrate the importance of teamwork,\n\nsportsmanship, and fair play. Kobe Bryant, a basketball icon, was renowned for his\n\ncommitment to team morale and his ability to uplift his teammates in pressurefilled\n\nmoments. His leadership qualities and dedication to the game have left an indelible\n\nmark on aspiring basketball players and ordinary fans alike, encouraging them to\n\nembrace the values of collaboration and respect.\n\nAfter considering both perspectives, I firmly believe that professional athletes do\n\nserve as positive role models for young people. Nonetheless, by providing specific\n\nexamples of inspiring athletes and addressing any drawbacks, a balance between\n\nadmiration and critical thinking can be maintained."
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "SPORTS",
+        "linkedPrompt": "SPORTS: Some people believe that professional athletes serve as positive role models for young people, while others argue that their behavior both on and off the field has a negative influence. Discuss both sides and give your opinion.",
+        "sideATitle": "Vai trò gắn kết cộng đồng & giá trị văn hóa",
+        "sideAArguments": [
+          "Âm nhạc, thể thao và nghệ thuật giúp giảm căng thẳng, kết nối đa thế hệ và nuôi dưỡng sáng tạo.",
+          "Truyền thông chất lượng cao nâng cao nhận thức cộng đồng về các vấn đề xã hội."
+        ],
+        "sideBTitle": "Mặt trái thương mại hóa & tin giả",
+        "sideBArguments": [
+          "Sự tôn sùng người nổi tiếng quá mức hoặc quảng cáo sai sự thật dễ định hướng lệch lạc giới trẻ.",
+          "Thuật toán mạng xã hội ưu tiên tin giật gân làm xói mòn chuẩn mực báo chí."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"SPORTS: Some people believe that professional athletes serve as positive role models for young people, while others argue that their behavio...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "sensationalized media coverage",
+            "meaningVi": "đưa tin giật gân câu khách"
+          },
+          {
+            "phrase": "cultural enrichment",
+            "meaningVi": "làm phong phú đời sống văn hóa"
+          },
+          {
+            "phrase": "commercialization of art",
+            "meaningVi": "sự thương mại hóa nghệ thuật"
+          },
+          {
+            "phrase": "critical media literacy",
+            "meaningVi": "năng lực đọc hiểu truyền thông có chọn lọc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-5",
+      "volNumber": 5,
+      "testNumber": 5,
+      "title": "Vol 5 — Test 5",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%205/Test%205-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 5\\Test 5- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P1 (2).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P1%20(2).mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P2 (2).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P2%20(2).mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P3 (3).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P3%20(3).mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P4 (3).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P4%20(3).mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\Test 5- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P1 (2).mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P2 (2).mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P3 (3).mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 5\\P4 (3).mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/Test%205-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%205-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P1%20(2).mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P2%20(2).mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P3%20(3).mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%205/P4%20(3).mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\5 Process  - make jam from the fruit.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.5 COMMON PHENOMENON.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: Process  - make jam from the fruit (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "Process  - make jam from the fruit",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/5%20Process%20%20-%20make%20jam%20from%20the%20fruit.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng Process  - make jam from the fruit.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The diagram shows how to make jam from the fruit.\n\nThe flowchart provides a detailed description of how a type of jam is made.\n\nOverall, the jam - making process is a relatively straightforward one, using simple\n\ningredients and involving eight main steps from fresh strawberries being prepared to\n\nfinished jam being served in family meals.\n\nThe process commences when four kilograms of ripe strawberries are washed in\n\norder to remove dirt strains before being put into a large bowl and manually crushed\n\ninto small pieces with the help of a piece of equipment called a masher. The resulting\n\nmass is poured into a pot and simmered in 5 - 10 minu tes, together with a quarter cup\n\nof sugar.\n\nOnce the sugar has dissolved, the temperature is raised highly, at which point four\n\nfurther cups of sugar can now be added. After ten minutes of high - temperature\n\ncooking, a condensed mixture of fruits and sugar is formed and subsequently\n\nspooned into glass - made jars. These jars of jam are left open to cool down during one\n\nhour before being tightly closed with lids, ready to become food for families."
+        },
+        "task2": {
+          "prompt": "Young people are often influenced in their behaviors by others in the same age group. Some argue that peer pressure is important while others feel it has distinct disadvantages. Do the disadvantages of peer pressure outweigh the advantages?",
+          "taskTypeLabel": "COMMON PHENOMENON",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.5%20COMMON%20PHENOMENON.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "Peer pressure refers to the influence young individuals experience within the same\n\nage group,\n\naffecting their behaviors. This essay will critically evaluate the drawbacks and\n\nbenefits of peer pressure on young people.\n\nPeer pressure often leads young individuals to engage in risky behaviors. For\n\ninstance, teenagers may feel compelled to experiment with drugs due to the effect of\n\ntheir peers who engage in such activities. The desire to fit in and be accepted can\n\noverride their better judgment, exposing them to serious short-term health risks and\n\npotential addiction later in life. Moreover, succumbing to negative peer pressure can\n\nadversely affect academic performance, as students may prioritize social acceptance\n\nover their studies. This desire for approval can result in poor grades, limited\n\neducational opportunities, and long-term negative consequences.\n\nOn the other hand, positive peer pressure can inspire young individuals to set higher\n\ngoals, adopt healthier habits, and strive for academic excellence. Many teenagers\n\nare pressured by their peers to join a study group, leading to improved learning\n\noutcomes and academic success. Relatedly, supportive friends can inspire young\n\nindividuals to engage in physical fitness activities or pursue positive hobbies and\n\ntalents, promoting a healthier and more well-rounded lifestyle. This sense of\n\ncamaraderie and mutual encouragement fostered within positive peer groups can\n\ncontribute significantly to personal growth and self-confidence. Actively seeking out\n\npositive and active peer groups and engaging in behaviors aligned with one's\n\npersonal values can help mitigate the adverse effects of negative peer pressure while\n\nharnessing the advantages of positive influence.\n\nIn conclusion, although peer pressure encourages risky behaviors and hinders\n\npersonal growth, the motivational and emotional advantage make it a positive on the\n\nwhole. Ultimately, striking some degree of balance between independence and\n\npositive peer interactions is crucial to minimizing the disadvantages and embracing\n\nthe benefits.\n\nWords: 296\n\nBand score: 8.0++"
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "COMMON PHENOMENON",
+        "linkedPrompt": "COMMON PHENOMENON: Young people are often influenced in their behaviors by others in the same age group. Some argue that peer pressure is important while others feel it has distinct disadvantages. Do the disadvantages of peer pressure outweigh the advantages?",
+        "sideATitle": "Phát triển năng lực cá nhân & công bằng cơ hội",
+        "sideAArguments": [
+          "Đầu tư giáo dục và kỹ năng thực tiễn tạo nền tảng dịch chuyển xã hội và năng suất lao động cao.",
+          "Trải nghiệm thực tế, kết nối xã hội và du lịch mở rộng thế giới quan."
+        ],
+        "sideBTitle": "Áp lực kinh tế & chênh lệch thu nhập",
+        "sideBArguments": [
+          "Chênh lệch thu nhập và học phí cao khiến nhóm yếu thế gặp rào cản tiếp cận cơ hội.",
+          "Cần kết hợp chương trình học chuẩn hóa với hỗ trợ tài chính mục tiêu."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"COMMON PHENOMENON: Young people are often influenced in their behaviors by others in the same age group. Some argue that peer pressure is im...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "upward social mobility",
+            "meaningVi": "sự dịch chuyển thăng tiến xã hội"
+          },
+          {
+            "phrase": "socioeconomic disparity",
+            "meaningVi": "sự chênh lệch kinh tế - xã hội"
+          },
+          {
+            "phrase": "cross-cultural competence",
+            "meaningVi": "năng lực giao tiếp liên văn hóa"
+          },
+          {
+            "phrase": "holistic skill development",
+            "meaningVi": "phát triển kỹ năng toàn diện"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-6",
+      "volNumber": 5,
+      "testNumber": 6,
+      "title": "Vol 5 — Test 6",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%206/Test%206-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 6\\Test 6- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P1.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P1.mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P3.MP3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P3.MP3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\Test 6- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P1.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P3.MP3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 6\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/Test%206-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%206-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P1.mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P3.MP3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%206/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\6 PROCESS - pineapple.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.6 CELEBRITIES.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: PROCESS - pineapple (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "PROCESS - pineapple",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/6%20PROCESS%20-%20pineapple.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng PROCESS - pineapple.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The process shows the steps and equipment involved in producing and shipping\n\npineapple for later retail .\n\nOverall , pineapple production involves both man - made and natural processes\n\nbeginning with the ripening of the fruit, its preparation and division into\n\ndifferent sizes before final processing. Smaller pineapples are used for juice,\n\nmedium sized ones are canned and the largest ones are sold whole .\n\nThe processing of all pineapple products begins in tropical climates (28 °C to 30\n\n°C) during which pinea pples are harvested at various sizes including 26cm,\n\n28cm and 30cm (2kg) in total height . The pineapples are then cleaned and\n\ndivided into three groups with the smallest and medium sized ones both having\n\ntheir tops sliced off and the rinds peeled . The smal ler ones are then sent\n\nthrough a juice extractor , while the larger ones are sliced and canned . In\n\ncontrast , the 30cm pineapples are simply washed , coated in wax , placed in\n\ncrates and then shipped on freights overseas ."
+        },
+        "task2": {
+          "prompt": "Some people feel that the private lives of celebrities should not be openly shared by the media. To what extent do you agree or disagree?",
+          "taskTypeLabel": "CELEBRITIES",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.6%20CELEBRITIES.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "Certain concerned parties today contend that celebrities’ private lives should not be\n\npublicized\n\non social media. In my opinion, the general citizenry has the right to be aware of the\n\nlives of\n\nvarious public figures.\n\nSome hold the opinion that each individual has an unalienable and basic right to\n\nprivacy. If one’s idols are not engaging in illegal activity, there is no clear justification\n\nto publicize their personal lives to the public other than as a form of entertainment or\n\ngossip. For instance, if a celebrity begins a new relationship, it is common for the\n\npaparazzi to photograph them in public and report private details online. This is an\n\ninvasion of privacy and may harm their relationship even though the celebrities have\n\ndone nothing wrong. The only injury in these cases is to the mental health of those\n\nbeing reported on in public forums with little cause.\n\nOn the one hand, celebrities have a social responsibility to set a good example for\n\nthe general\n\npublic. Modern media consumers, especially younger people, these days spend more\n\ntime online than ever before, and therefore are increasingly vulnerable to extreme\n\nviews and the easy of adoption of thoughtless political stances and bad habits. For\n\nthat reason, celebrities should regulate their personal behavior, including staying\n\naway from drug abuse, not espousing dangerous viewpoints, and focusing on\n\nso cially beneficial actions. Social media can in this way serve as a “watchdog” for\n\ncelebrities by reporting negative press, which will deter public figures from\n\nmisbehaving.\n\nIn conclusion, I think celebrities should allow citizens to learn about their personal\n\nlives though social media, since fame is a privilege and they have a responsibility\n\ntowards society at large. Citizens should only respect their privacy when it is a\n\npersonal matter with little public relevance.\n\nWords: 295\n\nBand score: 8.0++"
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "CELEBRITIES",
+        "linkedPrompt": "CELEBRITIES: Some people feel that the private lives of celebrities should not be openly shared by the media. To what extent do you agree or disagree?",
+        "sideATitle": "Vai trò gắn kết cộng đồng & giá trị văn hóa",
+        "sideAArguments": [
+          "Âm nhạc, thể thao và nghệ thuật giúp giảm căng thẳng, kết nối đa thế hệ và nuôi dưỡng sáng tạo.",
+          "Truyền thông chất lượng cao nâng cao nhận thức cộng đồng về các vấn đề xã hội."
+        ],
+        "sideBTitle": "Mặt trái thương mại hóa & tin giả",
+        "sideBArguments": [
+          "Sự tôn sùng người nổi tiếng quá mức hoặc quảng cáo sai sự thật dễ định hướng lệch lạc giới trẻ.",
+          "Thuật toán mạng xã hội ưu tiên tin giật gân làm xói mòn chuẩn mực báo chí."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"CELEBRITIES: Some people feel that the private lives of celebrities should not be openly shared by the media. To what extent do you agree or...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "sensationalized media coverage",
+            "meaningVi": "đưa tin giật gân câu khách"
+          },
+          {
+            "phrase": "cultural enrichment",
+            "meaningVi": "làm phong phú đời sống văn hóa"
+          },
+          {
+            "phrase": "commercialization of art",
+            "meaningVi": "sự thương mại hóa nghệ thuật"
+          },
+          {
+            "phrase": "critical media literacy",
+            "meaningVi": "năng lực đọc hiểu truyền thông có chọn lọc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-7",
+      "volNumber": 5,
+      "testNumber": 7,
+      "title": "Vol 5 — Test 7",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%207/Test%207-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 7\\Test 7- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P1.MP3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P1.MP3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P3.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P3.mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\Test 7- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P1.MP3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P3.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 7\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/Test%207-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%207-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P1.MP3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P3.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%207/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\7 PROCESS - using water to produce electricity .pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.7 MEDIA.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: PROCESS - using water to produce electricity (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "PROCESS - using water to produce electricity",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/7%20PROCESS%20-%20using%20water%20to%20produce%20electricity%20.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng PROCESS - using water to produce electricity.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The process shows the steps and equipment involved in producing\n\nelectrical power by using water.\n\nOverall, the process goes through multiple steps, from rainwater being\n\naccumulated in a reservoir, through the various processing steps , to\n\nhydroelectric power being generated for different purposes.\n\nThe process begins when seawater is heated by the sun and evaporates to\n\nform small clouds in the sky. Next, they merge into a storm cloud, which\n\nthen rains over the mountain. This rainwater is g athered in the reservoir\n\nbehind a dam. The following steps involve a pipe which connects the\n\nreservoir to a turbine as well as a pump, and is controlled using a valve.\n\nOnce the valve is opened, water flows into the turbine and rotates it to\n\nproduce elect rical current, following which it is pumped back into the\n\nreservoir. After this, the electricity produced by the turbine is transferred\n\nto the transformer station through high voltage cables. The last stage is\n\nwhen the electrical power is delivered to dome stic and industrial\n\nconsumers, as well as educational and medical facilities.\n\nW ords: 174\n\nB and score: 8.0++"
+        },
+        "task2": {
+          "prompt": "Schools should use films, computers and games instead of books. To what extent do you agree or disagree?",
+          "taskTypeLabel": "MEDIA",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.7%20MEDIA.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "There has been recent debate about whether classrooms should replace\n\nconventional books with more modern media such as movies, games, and\n\ncomputers. Although multimedia tools in education are engaging and interactive, it is\n\ncrucial to prioritize the enduring value of books.\n\nFilms, computers, and games offer unique advantages in educational settings. For\n\ninstance, films provide a dynamic platform to present complex concepts and historical\n\nevents, making them more accessible to students through visual storytelling. Many\n\nstudents learn more about issues such as slavery through movies like \"Twelve Years\n\na Slave\" than from textbooks. Similarly, interactive computer programs and\n\neducational games can promote active learning, problem solving skills, and\n\nteamwork. Engaging in technology-based activities often heightens motivation and\n\ninterest in a given subject compared to traditional book-based learning\n\nmethodologies.\n\nDespite the benefits of multimedia tools, books have greater value in classroom\n\ncontexts. Reading books cultivates critical thinking, language proficiency, and\n\nanalytical skills. Books\n\nencourage students to develop their imagination and form independent thoughts,\n\nfostering more nuanced understanding. They provide a wealth of information and\n\nperspectives that may not be readily available in multimedia formats. A well-known\n\nexample of this would be Huckleberry Finn, a 19th century novel by Mark Twain that\n\nmost American high school students must read. Reading such an old novel requires\n\nstudents to engage their mental faculties more actively than more passive\n\ncontemporary media formats and therefore better advances academic and\n\nintellectual development.\n\nIntegrating films, computers, and games in education can enhance engagement and\n\nmotivation, however, the lasting value of books must be given greater weight in\n\ncurriculum design. By employing multimedia tools alongside traditional resources to\n\nan extent, schools can cater to different learning styles and simultaneously prioritize\n\nand preserve traditional methods of learning."
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "MEDIA",
+        "linkedPrompt": "MEDIA: Schools should use films, computers and games instead of books. To what extent do you agree or disagree?",
+        "sideATitle": "Vai trò gắn kết cộng đồng & giá trị văn hóa",
+        "sideAArguments": [
+          "Âm nhạc, thể thao và nghệ thuật giúp giảm căng thẳng, kết nối đa thế hệ và nuôi dưỡng sáng tạo.",
+          "Truyền thông chất lượng cao nâng cao nhận thức cộng đồng về các vấn đề xã hội."
+        ],
+        "sideBTitle": "Mặt trái thương mại hóa & tin giả",
+        "sideBArguments": [
+          "Sự tôn sùng người nổi tiếng quá mức hoặc quảng cáo sai sự thật dễ định hướng lệch lạc giới trẻ.",
+          "Thuật toán mạng xã hội ưu tiên tin giật gân làm xói mòn chuẩn mực báo chí."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"MEDIA: Schools should use films, computers and games instead of books. To what extent do you agree or disagree?\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "sensationalized media coverage",
+            "meaningVi": "đưa tin giật gân câu khách"
+          },
+          {
+            "phrase": "cultural enrichment",
+            "meaningVi": "làm phong phú đời sống văn hóa"
+          },
+          {
+            "phrase": "commercialization of art",
+            "meaningVi": "sự thương mại hóa nghệ thuật"
+          },
+          {
+            "phrase": "critical media literacy",
+            "meaningVi": "năng lực đọc hiểu truyền thông có chọn lọc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-8",
+      "volNumber": 5,
+      "testNumber": 8,
+      "title": "Vol 5 — Test 8",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%208/TEST%208-up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 8\\TEST 8-up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P1 (2).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P1%20(2).mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P2 (2).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P2%20(2).mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P3 (3).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P3%20(3).mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P4 (3).mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P4%20(3).mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\Test 8- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P1 (2).mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P2 (2).mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P3 (3).mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 8\\P4 (3).mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/Test%208-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%208-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P1%20(2).mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P2%20(2).mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P3%20(3).mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%208/P4%20(3).mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\9 MAP - Liverton docks .pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.8 FRIENDSHIP.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: MAP - Liverton docks (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "MAP - Liverton docks",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/9%20MAP%20-%20Liverton%20docks%20.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng MAP - Liverton docks.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The graphics illustrate the layout of Liverton docks as it is now , compared to\n\nhow it used to look in 1980.\n\nOverall, the area has transformed from an actively functional port zone to a\n\nmodern one , most notably with a new access across the river being installed\n\nand several educational, residential and leisure facilities being newly\n\nintroduced .\n\nLooking first at the northern part , two old warehouses in 1980 are now\n\nconverted into an education center and a children’s playground, together with\n\na sail club in between. These developments have resulted in the demolition of\n\ntwo old cranes located alternately with the warehouses.\n\nAs for the remaining area , another crane and warehouse on the other riverside\n\nhave also been removed to create space for a hotel an d a block of apartments\n\nwith a parking lot adjacent to it. Along the south riverbank , there is an addition\n\nof a novel pedestrian path. This river walk is now in conjunction with a newly\n\nbuilt bridge and a flood barrier spanning the river . Eventually , a ship museum\n\nin the form of a large ship floating on the river has been established while\n\nmultiple ships in the original structures have been decommissioned .\n\nWords: 197\n\nB and score: 8.0++"
+        },
+        "task2": {
+          "prompt": "Friendships that take place online are not as meaningful as those where people meet each other face to face. To what extent do you agree or disagree?",
+          "taskTypeLabel": "FRIENDSHIP",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.8%20FRIENDSHIP.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "Certain concerned parties today would argue that there is inherently less value in\n\nonline friendships. In my opinion, despite the unique features possible when making\n\nfriends online, inperson friendships are more meaningful due to the human element.\n\nSupporters of making friendships in the virtual world point out the diverse possibilities\n\nfor communication. In the past, an individual had little choice other than to make\n\nfriends within a generally narrow range. Today, the average social media user can\n\ncontact individuals with more varied interests. For instance, people who are\n\npassionate about playing old board games can locate each other on a Facebook\n\ngroup or through an Instagram page and become friends as a result of a shared\n\naffinity. Using the internet, these people can stay in contact and sustain a potentially\n\nrewarding intellectual friendship.\n\nNonetheless, it is only possible to have a truly meaningful friendship when meeting\n\nface to face. Research has shown that the body produces endorphins that elevate\n\none's mood through touch and in-person conversation. These are signs that there is\n\ntremendous value in real life friendships based around physical proximity. The\n\nbenefits of such relationships extend to the ability to communicate with body\n\nlanguage, eye contact, and physical contact. These features are the intrinsic value\n\nand meaning most assign to quality friendships and are completely lacking in\n\nsuperficial online friendships that ultimately do little more than a waste of one's\n\nvaluable time and energy.\n\nIn conclusion, although being online affords the average person a number of\n\nconveniences that can enhance a friendship, there is indeed far greater value in\n\nconnecting with a person in real life. Few would dispute this claim even as many\n\nfriendships become increasingly situated in online contexts.\n\nWords: 283\n\nband score: 8.0++"
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "FRIENDSHIP",
+        "linkedPrompt": "FRIENDSHIP: Friendships that take place online are not as meaningful as those where people meet each other face to face. To what extent do you agree or disagree?",
+        "sideATitle": "Phát triển năng lực cá nhân & công bằng cơ hội",
+        "sideAArguments": [
+          "Đầu tư giáo dục và kỹ năng thực tiễn tạo nền tảng dịch chuyển xã hội và năng suất lao động cao.",
+          "Trải nghiệm thực tế, kết nối xã hội và du lịch mở rộng thế giới quan."
+        ],
+        "sideBTitle": "Áp lực kinh tế & chênh lệch thu nhập",
+        "sideBArguments": [
+          "Chênh lệch thu nhập và học phí cao khiến nhóm yếu thế gặp rào cản tiếp cận cơ hội.",
+          "Cần kết hợp chương trình học chuẩn hóa với hỗ trợ tài chính mục tiêu."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"FRIENDSHIP: Friendships that take place online are not as meaningful as those where people meet each other face to face. To what extent do y...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "upward social mobility",
+            "meaningVi": "sự dịch chuyển thăng tiến xã hội"
+          },
+          {
+            "phrase": "socioeconomic disparity",
+            "meaningVi": "sự chênh lệch kinh tế - xã hội"
+          },
+          {
+            "phrase": "cross-cultural competence",
+            "meaningVi": "năng lực giao tiếp liên văn hóa"
+          },
+          {
+            "phrase": "holistic skill development",
+            "meaningVi": "phát triển kỹ năng toàn diện"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-9",
+      "volNumber": 5,
+      "testNumber": 9,
+      "title": "Vol 5 — Test 9",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%209/Test%209-%20up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 9\\Test 9- up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P1.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P1.mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P3.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P3.mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\TEST 9- up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P1.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P3.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 9\\P4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/TEST%209-%20up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%209-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P1.mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P3.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%209/P4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 1\\10 DIAGRAM - train.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.9 EDUCATION.pdf"
+        ],
+        "task1": {
+          "prompt": "Chủ đề Task 1: DIAGRAM - train (Xem biểu đồ gốc trong PDF đính kèm)",
+          "taskTypeLabel": "DIAGRAM - train",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%201/10%20DIAGRAM%20-%20train.pdf",
+          "writingGuide": [
+            "Phân tích đối tượng, đơn vị và mốc thời gian cho dạng DIAGRAM - train.",
+            "Đoạn 1 (Introduction): Paraphrase đề bài trong 1-2 câu.",
+            "Đoạn 2 (Overview): Nêu 2 điểm nổi bật nhất (xu hướng chính, thay đổi lớn nhất) — KHÔNG chép số liệu chi tiết.",
+            "Đoạn 3 & 4 (Body 1 & Body 2): Nhóm dữ liệu theo quy luật tương đồng hoặc theo giai đoạn, so sánh trực tiếp."
+          ],
+          "sampleEssay": "The diagrams illustrate how a new underground platform and\n\nreinforcements were added to the Toronto Go Train Station during and\n\nfollowing construction.\n\nOverall, in the redesign of the Go train station, the pedestrian walkway\n\nunder the tracks was removed and replaced with two new levels: one for\n\npedestrian traffic and one for shopping. In addition, the station's supports\n\nwere partially removed and rebuilt.\n\nBefore construction, the station had two levels. The upper was where trains\n\narrived and departed and the lower was a pedestrian walkway passing\n\nunder the train. A large supporting pillar cent red below the tracks, passed\n\nthrough the level below and was b uried deep in the ground beneath it.\n\nDuring construction, the bottom concourse was dug out and lowered to a\n\nnew depth exposing the base of the buried support column. A temporary\n\nsupport system was built while a section of the main support post was\n\nremove d. It was then replaced and reinforced to include a new floor level\n\nbetween the upper and lower decks. The lowest level provided space for\n\nshops and the one above it remained a walkway for pedestrians to pass\n\nunder the tracks. The upper track level was vis ibly unchanged."
+        },
+        "task2": {
+          "prompt": "The best way to reduce poverty in developing countries is by giving up to six years of free education, so that they can at least read, write and use numbers. To what extent do you agree or disagree?",
+          "taskTypeLabel": "EDUCATION",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.9%20EDUCATION.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "Poverty remains a pressing issue in most developing countries, and one proposed\n\nsolution is a\n\nprovision of up to six years of free education, aiming to equip individuals with\n\nessential literacy and numeracy skills. In my opinion, I agree with this approach.\n\nWhile free education is a crucial step towards poverty reduction, it is not a standalone\n\nsolution. Equally essential are adequate infrastructure, trained teachers, and quality\n\neducational resources. Merely providing free education without ensuring its quality\n\nmay result in a system that fails to deliver the desired outcomes. Therefore,\n\ngovernments could focus on holistic educational reforms, including teacher training\n\nprograms, school infrastructure development, and curriculum enhancements, to\n\nmaximize the impact of free education initiatives. For example, in China, alongside\n\nthe introduction of free education policies, the government invested in teacher\n\ntraining programs and improved school infrastructure, leading to enhanced learning\n\noutcomes and noticeably higher student retention rates.\n\nHowever, free education itself can significantly increase access to schooling,\n\nparticularly for marginalized communities and children from low-income backgrounds.\n\nFinancial barriers often prevent children from attending school, perpetuating the cycle\n\nof poverty. By eliminating tuition fees at young ages, developing countries can\n\nremove one of the major obstacles to education and ensure that all children have the\n\nopportunity to learn. For instance, in India, the implementation of free education\n\npolicies has led to a rise in school enrollment rates among girls from disadvantaged\n\ncommunities, encouraging them to escape unfair conditions and pursue better futures\n\nthrough improved employability. This inclusivity in education can help bridge social\n\nand economic gaps, fostering a more equitable society.\n\nIn conclusion, I strongly agree that offering up to six years of free education can be a\n\npowerful tool for overcoming poverty in developing countries. By prioritizing education\n\nand implementing necessary reforms, developing nations can better empower their\n\ncitizens and reduce poverty levels in the long-term."
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "EDUCATION",
+        "linkedPrompt": "EDUCATION: The best way to reduce poverty in developing countries is by giving up to six years of free education, so that they can at least read, write and use numbers. To what extent do you agree or disagree?",
+        "sideATitle": "Phát triển năng lực cá nhân & công bằng cơ hội",
+        "sideAArguments": [
+          "Đầu tư giáo dục và kỹ năng thực tiễn tạo nền tảng dịch chuyển xã hội và năng suất lao động cao.",
+          "Trải nghiệm thực tế, kết nối xã hội và du lịch mở rộng thế giới quan."
+        ],
+        "sideBTitle": "Áp lực kinh tế & chênh lệch thu nhập",
+        "sideBArguments": [
+          "Chênh lệch thu nhập và học phí cao khiến nhóm yếu thế gặp rào cản tiếp cận cơ hội.",
+          "Cần kết hợp chương trình học chuẩn hóa với hỗ trợ tài chính mục tiêu."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"EDUCATION: The best way to reduce poverty in developing countries is by giving up to six years of free education, so that they can at least ...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "upward social mobility",
+            "meaningVi": "sự dịch chuyển thăng tiến xã hội"
+          },
+          {
+            "phrase": "socioeconomic disparity",
+            "meaningVi": "sự chênh lệch kinh tế - xã hội"
+          },
+          {
+            "phrase": "cross-cultural competence",
+            "meaningVi": "năng lực giao tiếp liên văn hóa"
+          },
+          {
+            "phrase": "holistic skill development",
+            "meaningVi": "phát triển kỹ năng toàn diện"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vol-5-test-10",
+      "volNumber": 5,
+      "testNumber": 10,
+      "title": "Vol 5 — Test 10",
+      "reading": {
+        "status": "scanned_pdf",
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Reading/Test%2010/Test%2010-up.pdf",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Reading\\Test 10\\Test 10-up.pdf"
+        ],
+        "passages": [],
+        "questions": [],
+        "hasAnswerKey": false,
+        "notes": "File Reading VOL 5 gốc là PDF scan ảnh."
+      },
+      "listening": {
+        "status": "scanned_questions_with_audio",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Part 1",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S1.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S1.mp3"
+          },
+          {
+            "partNumber": 2,
+            "title": "Part 2",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S2.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S2.mp3"
+          },
+          {
+            "partNumber": 3,
+            "title": "Part 3",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S3.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S3.mp3"
+          },
+          {
+            "partNumber": 4,
+            "title": "Part 4",
+            "questions": [],
+            "originalAudioFile": "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S4.mp3",
+            "audioSrc": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S4.mp3"
+          }
+        ],
+        "hasAnswerKey": false,
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\Test 10-up.pdf",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S1.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S2.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S3.mp3",
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Listening\\Test 10\\S4.mp3"
+        ],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/Test%2010-up.pdf"
+      },
+      "transcript": {
+        "status": "missing",
+        "hasExactTimestamps": false,
+        "parts": [],
+        "sourceFiles": [],
+        "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Transcripts%20%26%20Keys/test%2010-%20transcripts.pdf",
+        "notes": "File Transcript/Key gốc là PDF scan ảnh; bạn có thể xem hoặc tải bản TXT/SRT bổ sung."
+      },
+      "dictation": {
+        "status": "missing",
+        "partAudioMap": {
+          "1": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S1.mp3",
+          "2": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S2.mp3",
+          "3": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S3.mp3",
+          "4": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Listening/Test%2010/S4.mp3"
+        },
+        "hasExactTimestamps": false,
+        "segments": [],
+        "notes": "Đã có file audio gốc nhưng chưa có Transcript/Phụ đề cho test này. Hãy nhập Transcript hoặc SRT/VTT/LRC."
+      },
+      "writing": {
+        "status": "ready",
+        "sourceFiles": [
+          "Full Original Exam VOL 1-10\\VOL 5- ORIGINAL EXAMS\\Writing\\task 2\\task 2.10 TRAVEL.pdf"
+        ],
+        "task2": {
+          "prompt": "The increasing availability of low-cost airlines now lets people travel around the world. Some feel this is a positive development while others think it is negative overall. Discuss both sides and give your own opinion.",
+          "taskTypeLabel": "TRAVEL",
+          "originalPdfUrl": "/vol-archive/Full%20Original%20Exam%20VOL%201-10/VOL%205-%20ORIGINAL%20EXAMS/Writing/task%202/task%202.10%20TRAVEL.pdf",
+          "writingGuide": [
+            "Đoạn 1 (Introduction): Paraphrase bối cảnh + Thesis Statement trả lời trực diện yêu cầu đề.",
+            "Đoạn 2 (Body 1 - PEEL): Nêu luận điểm chính 1 → Giải thích cơ chế → Ví dụ minh họa → Liên kết đề.",
+            "Đoạn 3 (Body 2 - PEEL): Nêu luận điểm chính 2 / Phản biện đối trọng và phát triển chiều sâu.",
+            "Đoạn 4 (Conclusion): Tóm tắt lại lập trường bằng từ ngữ mới, không thêm ý mới."
+          ],
+          "sampleEssay": "The rise of low-cost airlines has made it possible for the public at large to travel\n\nabroad with\n\nrelative ease. In my opinion, despite the advantages this creates for less affluent\n\ncitizens, it is a net negative given the repercussions of the tourist industry to local\n\nnations.\n\nOne positive aspect of this development is the increased accessibility of travel. In the\n\npast, air travel was mainly reserved for the wealthy and the middle class, however,\n\nwith the advent of low-cost airlines, even those on a more limited budget can afford to\n\ngo on vacation domestically or to foreign countries. For example, a round-trip flight\n\nfrom London to Barcelona can now be purchased for as little as £20, making it\n\npossible for even students and young adults to explore new places. This equitable\n\nphenomenon is particularly valuable in less developed nations where in past\n\ngenerations only the truly wealthy could afford to travel regularly.\n\nNonetheless, the expansion of low-cost airlines has also led to issues of\n\novercrowding and overtourism in certain destinations. For example, locales like Ha\n\nLong Bay in Vietnam and\n\nBoracay in the Philippines have struggled to cope with the influx of domestic and\n\ninternational tourists, leading to concerns about the impact on local communities and\n\ncultural heritage. Many of these communities now almost exclusively cater to tourism\n\nand there is less interest in older means of making a living, such as by producing a\n\nlocal handicraft or traditional garment. This has led to calls for more sustainable\n\ntourism practices and greater regulation of the industry to ensure that it benefits and\n\nsustains local communities.\n\nIn conclusion, although increased accessibility is an equitable development, it has\n\nalso contributed to issues of overcrowding and overtourism. It is important for the\n\naviation industry and governments to collaborate to address these negative impacts\n\nwhile continuing to make travel available to a wider range of residents."
+        }
+      },
+      "idea": {
+        "status": "ready",
+        "topic": "TRAVEL",
+        "linkedPrompt": "TRAVEL: The increasing availability of low-cost airlines now lets people travel around the world. Some feel this is a positive development while others think it is negative overall. Discuss both sides and give your own opinion.",
+        "sideATitle": "Phát triển năng lực cá nhân & công bằng cơ hội",
+        "sideAArguments": [
+          "Đầu tư giáo dục và kỹ năng thực tiễn tạo nền tảng dịch chuyển xã hội và năng suất lao động cao.",
+          "Trải nghiệm thực tế, kết nối xã hội và du lịch mở rộng thế giới quan."
+        ],
+        "sideBTitle": "Áp lực kinh tế & chênh lệch thu nhập",
+        "sideBArguments": [
+          "Chênh lệch thu nhập và học phí cao khiến nhóm yếu thế gặp rào cản tiếp cận cơ hội.",
+          "Cần kết hợp chương trình học chuẩn hóa với hỗ trợ tài chính mục tiêu."
+        ],
+        "examples": [
+          "Áp dụng trực tiếp cho đề: \"TRAVEL: The increasing availability of low-cost airlines now lets people travel around the world. Some feel this is a positive development w...\" — sử dụng số liệu/tình huống thực tế tại các đô thị phát triển hoặc nghiên cứu giáo dục/môi trường quốc tế."
+        ],
+        "collocations": [
+          {
+            "phrase": "upward social mobility",
+            "meaningVi": "sự dịch chuyển thăng tiến xã hội"
+          },
+          {
+            "phrase": "socioeconomic disparity",
+            "meaningVi": "sự chênh lệch kinh tế - xã hội"
+          },
+          {
+            "phrase": "cross-cultural competence",
+            "meaningVi": "năng lực giao tiếp liên văn hóa"
+          },
+          {
+            "phrase": "holistic skill development",
+            "meaningVi": "phát triển kỹ năng toàn diện"
+          }
+        ]
+      }
+    }
+  ]
+}

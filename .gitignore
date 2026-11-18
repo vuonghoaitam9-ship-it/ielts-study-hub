@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+public/audio/vol-*/*.mp3
+public/audio/vol-*/*.wav
+public/audio/vol-*/*.m4a
+public/audio/vol-*/*.mp4
+public/audio/vol-*/*.ogg
+public/audio/vol-*/*.wma

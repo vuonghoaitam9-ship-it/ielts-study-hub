@@ -1,0 +1,3636 @@
+[
+  {
+    "volNumber": 1,
+    "title": "Volume 1 — Original Exams (Test 1 – Test 10)",
+    "description": "Đầy đủ Audio gốc MP3 cho 10 Test + 10 Transcript gắn mốc thời gian [HH:MM:SS] chạy Dictation chính xác theo câu (cùng Reading bản số hóa cho Test 9).",
+    "tests": [
+      {
+        "id": "vol-1-test-1",
+        "volNumber": 1,
+        "testNumber": 1,
+        "title": "Vol 1 — Test 1",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 301,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 301,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-2",
+        "volNumber": 1,
+        "testNumber": 2,
+        "title": "Vol 1 — Test 2",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 309,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 309,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-3",
+        "volNumber": 1,
+        "testNumber": 3,
+        "title": "Vol 1 — Test 3",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 328,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 328,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-4",
+        "volNumber": 1,
+        "testNumber": 4,
+        "title": "Vol 1 — Test 4",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 341,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 341,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-5",
+        "volNumber": 1,
+        "testNumber": 5,
+        "title": "Vol 1 — Test 5",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 223,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 223,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-6",
+        "volNumber": 1,
+        "testNumber": 6,
+        "title": "Vol 1 — Test 6",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 317,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 317,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-7",
+        "volNumber": 1,
+        "testNumber": 7,
+        "title": "Vol 1 — Test 7",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 313,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 313,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-8",
+        "volNumber": 1,
+        "testNumber": 8,
+        "title": "Vol 1 — Test 8",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 295,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 295,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-9",
+        "volNumber": 1,
+        "testNumber": 9,
+        "title": "Vol 1 — Test 9",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 264,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 264,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-1-test-10",
+        "volNumber": 1,
+        "testNumber": 10,
+        "title": "Vol 1 — Test 10",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 294,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 294,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 2,
+    "title": "Volume 2 — Original Exams (Test 1 – Test 10)",
+    "description": "Audio gốc Part 1–4 cho toàn bộ 10 Test, Reading bản số hóa + giải thích cho Test 1/3/9/10 và hình ảnh biểu đồ Task 1 gốc cho Test 1–9.",
+    "tests": [
+      {
+        "id": "vol-2-test-1",
+        "volNumber": 2,
+        "testNumber": 1,
+        "title": "Vol 2 — Test 1",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 24,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 1 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-2",
+        "volNumber": 2,
+        "testNumber": 2,
+        "title": "Vol 2 — Test 2",
+        "reading": {
+          "status": "missing",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 2 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-3",
+        "volNumber": 2,
+        "testNumber": 3,
+        "title": "Vol 2 — Test 3",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 34,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 3 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-4",
+        "volNumber": 2,
+        "testNumber": 4,
+        "title": "Vol 2 — Test 4",
+        "reading": {
+          "status": "missing",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 4 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-5",
+        "volNumber": 2,
+        "testNumber": 5,
+        "title": "Vol 2 — Test 5",
+        "reading": {
+          "status": "missing",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 5 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-6",
+        "volNumber": 2,
+        "testNumber": 6,
+        "title": "Vol 2 — Test 6",
+        "reading": {
+          "status": "missing",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 6 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-7",
+        "volNumber": 2,
+        "testNumber": 7,
+        "title": "Vol 2 — Test 7",
+        "reading": {
+          "status": "missing",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 7 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-8",
+        "volNumber": 2,
+        "testNumber": 8,
+        "title": "Vol 2 — Test 8",
+        "reading": {
+          "status": "missing",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 8 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-9",
+        "volNumber": 2,
+        "testNumber": 9,
+        "title": "Vol 2 — Test 9",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 29,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Biểu đồ Task 1 gốc — Vol 2 Test 9 (xem hình ảnh đề gốc bên dưới)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-2-test-10",
+        "volNumber": 2,
+        "testNumber": 10,
+        "title": "Vol 2 — Test 10",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 28,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 3,
+    "title": "Volume 3 — Original Exams (Test 1 – Test 10)",
+    "description": "Audio gốc, Transcript gắn timestamp trích xuất từ PDF, đáp án Listening/Reading đầy đủ từ file Excel gốc.",
+    "tests": [
+      {
+        "id": "vol-3-test-1",
+        "volNumber": 3,
+        "testNumber": 1,
+        "title": "Vol 3 — Test 1",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 272,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 272,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-2",
+        "volNumber": 3,
+        "testNumber": 2,
+        "title": "Vol 3 — Test 2",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 295,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 295,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-3",
+        "volNumber": 3,
+        "testNumber": 3,
+        "title": "Vol 3 — Test 3",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 289,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 289,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-4",
+        "volNumber": 3,
+        "testNumber": 4,
+        "title": "Vol 3 — Test 4",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 254,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 254,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-5",
+        "volNumber": 3,
+        "testNumber": 5,
+        "title": "Vol 3 — Test 5",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 53,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 53,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-6",
+        "volNumber": 3,
+        "testNumber": 6,
+        "title": "Vol 3 — Test 6",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 323,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 323,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-7",
+        "volNumber": 3,
+        "testNumber": 7,
+        "title": "Vol 3 — Test 7",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 371,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 371,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-8",
+        "volNumber": 3,
+        "testNumber": 8,
+        "title": "Vol 3 — Test 8",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 260,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 260,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-9",
+        "volNumber": 3,
+        "testNumber": 9,
+        "title": "Vol 3 — Test 9",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 40,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 270,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 270,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-3-test-10",
+        "volNumber": 3,
+        "testNumber": 10,
+        "title": "Vol 3 — Test 10",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 254,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 254,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "image_or_scan_only",
+          "task1Prompt": "Đề Writing Task 1 nằm trong file PDF scan tổng hợp (writing.pdf)",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 4,
+    "title": "Volume 4 — Original Exams (Test 1 – Test 10)",
+    "description": "Audio gốc MP3/M4A (Test 2–9, ghi chú Test 1 & 10 dùng .wma), đáp án Listening Excel, và bài đọc số hóa Test 4, 5, 6.",
+    "tests": [
+      {
+        "id": "vol-4-test-1",
+        "volNumber": 4,
+        "testNumber": 1,
+        "title": "Vol 4 — Test 1",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "wma_unsupported",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 268,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing_audio",
+          "segmentCount": 268,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-2",
+        "volNumber": 4,
+        "testNumber": 2,
+        "title": "Vol 4 — Test 2",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 263,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 263,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-3",
+        "volNumber": 4,
+        "testNumber": 3,
+        "title": "Vol 4 — Test 3",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 253,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 253,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-4",
+        "volNumber": 4,
+        "testNumber": 4,
+        "title": "Vol 4 — Test 4",
+        "reading": {
+          "status": "ready",
+          "passageCount": 2,
+          "questionCount": 40,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 261,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 261,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-5",
+        "volNumber": 4,
+        "testNumber": 5,
+        "title": "Vol 4 — Test 5",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 28,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 252,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 252,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-6",
+        "volNumber": 4,
+        "testNumber": 6,
+        "title": "Vol 4 — Test 6",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 22,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 225,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 225,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-7",
+        "volNumber": 4,
+        "testNumber": 7,
+        "title": "Vol 4 — Test 7",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 267,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 267,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-8",
+        "volNumber": 4,
+        "testNumber": 8,
+        "title": "Vol 4 — Test 8",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 207,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 207,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-9",
+        "volNumber": 4,
+        "testNumber": 9,
+        "title": "Vol 4 — Test 9",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 153,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 153,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-4-test-10",
+        "volNumber": 4,
+        "testNumber": 10,
+        "title": "Vol 4 — Test 10",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "wma_unsupported",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 236,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing_audio",
+          "segmentCount": 236,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 5,
+    "title": "Volume 5 — Original Exams (Test 1 – Test 10)",
+    "description": "Audio gốc MP3 cho cả 10 Test (38 file MP3) + Trích xuất trọn vẹn 10 bộ đề & bài mẫu Writing Task 1 / Task 2 kèm Idea Bank tương ứng.",
+    "tests": [
+      {
+        "id": "vol-5-test-1",
+        "volNumber": 5,
+        "testNumber": 1,
+        "title": "Vol 5 — Test 1",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: LINE - Income (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Some people think that certain old buildings are more worth preserving than other ones. To what extent do you agree or disagree?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "BUILDING"
+        }
+      },
+      {
+        "id": "vol-5-test-2",
+        "volNumber": 5,
+        "testNumber": 2,
+        "title": "Vol 5 — Test 2",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: MIX - Foreign Tourists visiting a country (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "In many countries, the number of animals and plants is declining. Why do you think this is happening? How can this issue be solved?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "ANIMAL"
+        }
+      },
+      {
+        "id": "vol-5-test-3",
+        "volNumber": 5,
+        "testNumber": 3,
+        "title": "Vol 5 — Test 3",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: MIX - unemployment rate (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Some argue that music mainly serves as a way for individuals to reduce their stress and anxiety. To what extent do you agree or disagree?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "MUSIC"
+        }
+      },
+      {
+        "id": "vol-5-test-4",
+        "volNumber": 5,
+        "testNumber": 4,
+        "title": "Vol 5 — Test 4",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: PIE - UK immigration (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Some people believe that professional athletes serve as positive role models for young people, while others argue that their behavior both on and off the field has a negative influence. Discuss both sides and give your opinion."
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "SPORTS"
+        }
+      },
+      {
+        "id": "vol-5-test-5",
+        "volNumber": 5,
+        "testNumber": 5,
+        "title": "Vol 5 — Test 5",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: Process  - make jam from the fruit (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Young people are often influenced in their behaviors by others in the same age group. Some argue that peer pressure is important while others feel it has distinct disadvantages. Do the disadvantages of peer pressure outweigh the advantages?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "COMMON PHENOMENON"
+        }
+      },
+      {
+        "id": "vol-5-test-6",
+        "volNumber": 5,
+        "testNumber": 6,
+        "title": "Vol 5 — Test 6",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: PROCESS - pineapple (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Some people feel that the private lives of celebrities should not be openly shared by the media. To what extent do you agree or disagree?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "CELEBRITIES"
+        }
+      },
+      {
+        "id": "vol-5-test-7",
+        "volNumber": 5,
+        "testNumber": 7,
+        "title": "Vol 5 — Test 7",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: PROCESS - using water to produce electricity (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Schools should use films, computers and games instead of books. To what extent do you agree or disagree?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "MEDIA"
+        }
+      },
+      {
+        "id": "vol-5-test-8",
+        "volNumber": 5,
+        "testNumber": 8,
+        "title": "Vol 5 — Test 8",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: MAP - Liverton docks (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "Friendships that take place online are not as meaningful as those where people meet each other face to face. To what extent do you agree or disagree?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "FRIENDSHIP"
+        }
+      },
+      {
+        "id": "vol-5-test-9",
+        "volNumber": 5,
+        "testNumber": 9,
+        "title": "Vol 5 — Test 9",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Chủ đề Task 1: DIAGRAM - train (Xem biểu đồ gốc trong PDF đính kèm)",
+          "task2Prompt": "The best way to reduce poverty in developing countries is by giving up to six years of free education, so that they can at least read, write and use numbers. To what extent do you agree or disagree?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "EDUCATION"
+        }
+      },
+      {
+        "id": "vol-5-test-10",
+        "volNumber": 5,
+        "testNumber": 10,
+        "title": "Vol 5 — Test 10",
+        "reading": {
+          "status": "scanned_pdf",
+          "passageCount": 0,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "scanned_questions_with_audio",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": true
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "",
+          "task2Prompt": "The increasing availability of low-cost airlines now lets people travel around the world. Some feel this is a positive development while others think it is negative overall. Discuss both sides and give your own opinion."
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "TRAVEL"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 6,
+    "title": "Volume 6 — Original Exams (Test 1 – Test 6)",
+    "description": "Đủ 6 bộ Reading số hóa, 6 bộ Listening số hóa + 24 file Audio gốc MP3, và bộ Writing + Idea Bank từ tài liệu nguồn.",
+    "tests": [
+      {
+        "id": "vol-6-test-1",
+        "volNumber": 6,
+        "testNumber": 1,
+        "title": "Vol 6 — Test 1",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 9,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "Plan A below shows the ground floor of a particular art gallery in 2005. Plan B shows the same area in the present day. Plan A: art gallery ground floor - 2005 Plan B: art gallery ground floor - present day",
+          "task2Prompt": "Do you think the advantages of this development outweigh the disadvantages?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "Vol 6 Test 1 Writing"
+        }
+      },
+      {
+        "id": "vol-6-test-2",
+        "volNumber": 6,
+        "testNumber": 2,
+        "title": "Vol 6 — Test 2",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 18,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "This chart shows the percentage of fuel from renewable energy used in the transport sector in six European Union countries in 2009 and 2010, compared to the average. Percentage of fuel from renewable energy used in the transport sector in 2009 and 2010",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "Vol 6 Test 2 Writing"
+        }
+      },
+      {
+        "id": "vol-6-test-3",
+        "volNumber": 6,
+        "testNumber": 3,
+        "title": "Vol 6 — Test 3",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 20,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "The table below gives the information about salaries of secondary/high school teachers in 5 countries in 2009. Secondary / high school teacher salaries in 5 countr ies (2009) Country Salary per year Years taken",
+          "task2Prompt": "Why is this the case ? Is it a positive development?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "Vol 6 Test 3 Writing"
+        }
+      },
+      {
+        "id": "vol-6-test-4",
+        "volNumber": 6,
+        "testNumber": 4,
+        "title": "Vol 6 — Test 4",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 21,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "The tables below give information about salaries for graduates and non - graduates in the UK between 2000 and 2010. Average salaries - all age groups Graduates Non - graduates",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "Vol 6 Test 4 Writing"
+        }
+      },
+      {
+        "id": "vol-6-test-5",
+        "volNumber": 6,
+        "testNumber": 5,
+        "title": "Vol 6 — Test 5",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 18,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "The graph below gives information about sugar production and consumption in India from 2001 to 2011. Sugar production and consumption from 2001 - 2011 Lexical Breakdown with Definitions",
+          "task2Prompt": "To what extent do you agree or disagree with this statement?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "Vol 6 Test 5 Writing"
+        }
+      },
+      {
+        "id": "vol-6-test-6",
+        "volNumber": 6,
+        "testNumber": 6,
+        "title": "Vol 6 — Test 6",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 12,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "ready",
+          "task1Prompt": "The plans below show a small park in 1980 and the park now. General Comparison & Overview  Overall – Introduces a general summary.  used to be / nowadays – Shows contrast between past and present.",
+          "task2Prompt": "To what extend is this a positive of negative devel opment?"
+        },
+        "idea": {
+          "status": "ready",
+          "topic": "Vol 6 Test 6 Writing"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 7,
+    "title": "Volume 7 — Cambridge 13–20 Format & Original Listening (Test 1 – Test 16)",
+    "description": "Trọn bộ 16 đề Reading số hóa kèm giải thích tiếng Việt chi tiết + 11 bộ Listening số hóa kèm Audio gốc & Transcript gắn timestamp chính xác từng câu.",
+    "tests": [
+      {
+        "id": "vol-7-test-1",
+        "volNumber": 7,
+        "testNumber": 1,
+        "title": "Vol 7 — Test 1",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 14,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 270,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 270,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-2",
+        "volNumber": 7,
+        "testNumber": 2,
+        "title": "Vol 7 — Test 2",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 15,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 279,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 279,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-3",
+        "volNumber": 7,
+        "testNumber": 3,
+        "title": "Vol 7 — Test 3",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 13,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 286,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 286,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-4",
+        "volNumber": 7,
+        "testNumber": 4,
+        "title": "Vol 7 — Test 4",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 14,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 249,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 249,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-5",
+        "volNumber": 7,
+        "testNumber": 5,
+        "title": "Vol 7 — Test 5",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 17,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 247,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 247,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-6",
+        "volNumber": 7,
+        "testNumber": 6,
+        "title": "Vol 7 — Test 6",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 16,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 259,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 259,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-7",
+        "volNumber": 7,
+        "testNumber": 7,
+        "title": "Vol 7 — Test 7",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 9,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 242,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 242,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-8",
+        "volNumber": 7,
+        "testNumber": 8,
+        "title": "Vol 7 — Test 8",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 16,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 300,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 300,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-9",
+        "volNumber": 7,
+        "testNumber": 9,
+        "title": "Vol 7 — Test 9",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 17,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 225,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 225,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-10",
+        "volNumber": 7,
+        "testNumber": 10,
+        "title": "Vol 7 — Test 10",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 9,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 245,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 245,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-11",
+        "volNumber": 7,
+        "testNumber": 11,
+        "title": "Vol 7 — Test 11",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 24,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 227,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 227,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-12",
+        "volNumber": 7,
+        "testNumber": 12,
+        "title": "Vol 7 — Test 12",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 21,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-13",
+        "volNumber": 7,
+        "testNumber": 13,
+        "title": "Vol 7 — Test 13",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 7,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-14",
+        "volNumber": 7,
+        "testNumber": 14,
+        "title": "Vol 7 — Test 14",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 14,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-15",
+        "volNumber": 7,
+        "testNumber": 15,
+        "title": "Vol 7 — Test 15",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 34,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-7-test-16",
+        "volNumber": 7,
+        "testNumber": 16,
+        "title": "Vol 7 — Test 16",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 32,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 8,
+    "title": "Volume 8 — Cambridge 13–20 Format & Original Listening (Test 1 – Test 12)",
+    "description": "Đủ 12 đề Reading số hóa + 8 bộ Listening hoàn chỉnh (đề DOCX, 40 đáp án, Transcript chi tiết và Audio gốc MP4).",
+    "tests": [
+      {
+        "id": "vol-8-test-1",
+        "volNumber": 8,
+        "testNumber": 1,
+        "title": "Vol 8 — Test 1",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 24,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 213,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 213,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-2",
+        "volNumber": 8,
+        "testNumber": 2,
+        "title": "Vol 8 — Test 2",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 18,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 250,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 250,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-3",
+        "volNumber": 8,
+        "testNumber": 3,
+        "title": "Vol 8 — Test 3",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 23,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 269,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 269,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-4",
+        "volNumber": 8,
+        "testNumber": 4,
+        "title": "Vol 8 — Test 4",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 22,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 266,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 266,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-5",
+        "volNumber": 8,
+        "testNumber": 5,
+        "title": "Vol 8 — Test 5",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 16,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 313,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 313,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-6",
+        "volNumber": 8,
+        "testNumber": 6,
+        "title": "Vol 8 — Test 6",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 25,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 250,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 250,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-7",
+        "volNumber": 8,
+        "testNumber": 7,
+        "title": "Vol 8 — Test 7",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 19,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 228,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 228,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-8",
+        "volNumber": 8,
+        "testNumber": 8,
+        "title": "Vol 8 — Test 8",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 20,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 293,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "needs_timestamps",
+          "segmentCount": 293,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-9",
+        "volNumber": 8,
+        "testNumber": 9,
+        "title": "Vol 8 — Test 9",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 23,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-10",
+        "volNumber": 8,
+        "testNumber": 10,
+        "title": "Vol 8 — Test 10",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 24,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-11",
+        "volNumber": 8,
+        "testNumber": 11,
+        "title": "Vol 8 — Test 11",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 15,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-8-test-12",
+        "volNumber": 8,
+        "testNumber": 12,
+        "title": "Vol 8 — Test 12",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 18,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 9,
+    "title": "Volume 9 — Complete Reading & Listening (Test 1 – Test 9)",
+    "description": "Đủ 9 đề Reading số hóa + 40 đáp án từng đề và 9 bộ Listening số hóa + Transcript + Audio gốc MP4.",
+    "tests": [
+      {
+        "id": "vol-9-test-1",
+        "volNumber": 9,
+        "testNumber": 1,
+        "title": "Vol 9 — Test 1",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 8,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 274,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 274,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-2",
+        "volNumber": 9,
+        "testNumber": 2,
+        "title": "Vol 9 — Test 2",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 16,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 280,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 280,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-3",
+        "volNumber": 9,
+        "testNumber": 3,
+        "title": "Vol 9 — Test 3",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 16,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 277,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 277,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-4",
+        "volNumber": 9,
+        "testNumber": 4,
+        "title": "Vol 9 — Test 4",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 22,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 272,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 272,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-5",
+        "volNumber": 9,
+        "testNumber": 5,
+        "title": "Vol 9 — Test 5",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 11,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 231,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 231,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-6",
+        "volNumber": 9,
+        "testNumber": 6,
+        "title": "Vol 9 — Test 6",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 11,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 236,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 236,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-7",
+        "volNumber": 9,
+        "testNumber": 7,
+        "title": "Vol 9 — Test 7",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 20,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 244,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 244,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-8",
+        "volNumber": 9,
+        "testNumber": 8,
+        "title": "Vol 9 — Test 8",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 21,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 269,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 269,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-9-test-9",
+        "volNumber": 9,
+        "testNumber": 9,
+        "title": "Vol 9 — Test 9",
+        "reading": {
+          "status": "ready",
+          "passageCount": 3,
+          "questionCount": 19,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "ready",
+          "hasAnswerKey": true
+        },
+        "transcript": {
+          "status": "ready",
+          "segmentCount": 275,
+          "hasExactTimestamps": true,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "ready",
+          "segmentCount": 275,
+          "hasExactTimestamps": true
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  },
+  {
+    "volNumber": 10,
+    "title": "Volume 10 — Digital Reading (Test 1 – Test 6) & Pending Listening/Audio",
+    "description": "Đã trích xuất trọn vẹn 6 đề Reading + 40 đáp án từ VOL 10 KEY.pdf; giữ khung trống minh bạch cho Listening/Audio/Transcript/Writing đang thiếu ở nguồn.",
+    "tests": [
+      {
+        "id": "vol-10-test-1",
+        "volNumber": 10,
+        "testNumber": 1,
+        "title": "Vol 10 — Test 1",
+        "reading": {
+          "status": "ready",
+          "passageCount": 1,
+          "questionCount": 35,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-10-test-2",
+        "volNumber": 10,
+        "testNumber": 2,
+        "title": "Vol 10 — Test 2",
+        "reading": {
+          "status": "ready",
+          "passageCount": 1,
+          "questionCount": 0,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-10-test-3",
+        "volNumber": 10,
+        "testNumber": 3,
+        "title": "Vol 10 — Test 3",
+        "reading": {
+          "status": "ready",
+          "passageCount": 1,
+          "questionCount": 31,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-10-test-4",
+        "volNumber": 10,
+        "testNumber": 4,
+        "title": "Vol 10 — Test 4",
+        "reading": {
+          "status": "ready",
+          "passageCount": 1,
+          "questionCount": 25,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-10-test-5",
+        "volNumber": 10,
+        "testNumber": 5,
+        "title": "Vol 10 — Test 5",
+        "reading": {
+          "status": "ready",
+          "passageCount": 1,
+          "questionCount": 18,
+          "hasAnswerKey": false
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      },
+      {
+        "id": "vol-10-test-6",
+        "volNumber": 10,
+        "testNumber": 6,
+        "title": "Vol 10 — Test 6",
+        "reading": {
+          "status": "ready",
+          "passageCount": 1,
+          "questionCount": 20,
+          "hasAnswerKey": true
+        },
+        "listening": {
+          "status": "missing",
+          "hasAnswerKey": false
+        },
+        "transcript": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false,
+          "hasOriginalPdf": false
+        },
+        "dictation": {
+          "status": "missing",
+          "segmentCount": 0,
+          "hasExactTimestamps": false
+        },
+        "writing": {
+          "status": "missing",
+          "task1Prompt": "",
+          "task2Prompt": ""
+        },
+        "idea": {
+          "status": "missing",
+          "topic": "Chưa có đề Writing nguồn"
+        }
+      }
+    ]
+  }
+]
