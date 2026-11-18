@@ -4,6 +4,7 @@ import {
   CATALOG_SUMMARY,
   STATIC_MISSING_REPORT,
 } from '../data/volumes';
+import remoteMediaMapData from '../data/volumes/remote-media-map.json';
 import { createObjectUrlForBlobId, db } from '../db/database';
 import {
   MissingItemRecord,
@@ -16,7 +17,33 @@ import {
   VolumeTestSummaryEntry,
 } from '../types';
 
+const REMOTE_MEDIA_MAP = remoteMediaMapData as Record<string, string>;
 const VOLUME_CACHE = new Map<number, VolumeEntry>();
+
+function shouldUseRemoteMediaCdn(): boolean {
+  if (import.meta.env.PROD) return true;
+  if (typeof window === 'undefined') return false;
+  const host = window.location.hostname;
+  return host !== 'localhost' && host !== '127.0.0.1';
+}
+
+function mapArchiveUrlsToCdn<T>(value: T): T {
+  if (!shouldUseRemoteMediaCdn()) return value;
+  if (typeof value === 'string') {
+    return (REMOTE_MEDIA_MAP[value] || value) as unknown as T;
+  }
+  if (Array.isArray(value)) {
+    return value.map((item) => mapArchiveUrlsToCdn(item)) as unknown as T;
+  }
+  if (value && typeof value === 'object') {
+    const out: Record<string, unknown> = {};
+    for (const [k, v] of Object.entries(value)) {
+      out[k] = mapArchiveUrlsToCdn(v);
+    }
+    return out as T;
+  }
+  return value;
+}
 
 async function loadVolumeJson(volNumber: number): Promise<VolumeEntry | null> {
   if (VOLUME_CACHE.has(volNumber)) {
@@ -27,7 +54,8 @@ async function loadVolumeJson(volNumber: number): Promise<VolumeEntry | null> {
     : `${import.meta.env.BASE_URL}/`;
   const res = await fetch(`${baseUrl}data/volumes/vol-${volNumber}.json`);
   if (!res.ok) return null;
-  const data = (await res.json()) as VolumeEntry;
+  const rawData = (await res.json()) as VolumeEntry;
+  const data = mapArchiveUrlsToCdn(rawData);
   VOLUME_CACHE.set(volNumber, data);
   return data;
 }

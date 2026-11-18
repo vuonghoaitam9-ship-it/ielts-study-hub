@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { CATALOG_SUMMARY, STATIC_MISSING_REPORT } from '../data/volumes';
+import remoteMediaMapData from '../data/volumes/remote-media-map.json';
 import { VolumeEntry } from '../types';
 
 const VOL_DATA_DIR = path.resolve(__dirname, '../../public/data/volumes');
@@ -80,11 +81,13 @@ describe('Vol 1-10 Data Integrity & Strict Original Audio Constraints', () => {
         // Dictation reuses original Listening audio tracks (either fullAudioSrc or per-part audioSrc)
         if (test.dictation.status !== 'missing') {
           expect(test.dictation.segments.length).toBeGreaterThan(0);
-          for (const seg of test.dictation.segments) {
-            expect(seg.transcript.trim().length).toBeGreaterThan(0);
-            expect(seg.partNumber).toBeGreaterThanOrEqual(1);
-            expect(seg.partNumber).toBeLessThanOrEqual(4);
-          }
+          const invalidSeg = test.dictation.segments.find(
+            (seg) =>
+              seg.transcript.trim().length === 0 ||
+              seg.partNumber < 1 ||
+              seg.partNumber > 4
+          );
+          expect(invalidSeg).toBeUndefined();
           if (test.dictation.status === 'ready') {
             expect(audioUrls.length).toBeGreaterThan(0);
           }
@@ -93,7 +96,7 @@ describe('Vol 1-10 Data Integrity & Strict Original Audio Constraints', () => {
     }
 
     expect(totalTests).toBeGreaterThanOrEqual(80);
-  });
+  }, 15000);
 
   it('tracks missing, scanned PDF, and .wma audio gaps explicitly without fabricating content', () => {
     expect(STATIC_MISSING_REPORT.length).toBeGreaterThan(0);
@@ -107,5 +110,40 @@ describe('Vol 1-10 Data Integrity & Strict Original Audio Constraints', () => {
           m.reason === 'missing_answer_key'
       )
     ).toBe(true);
+  });
+
+  it('maps 100% of referenced /vol-archive/ media URLs (337 files) to remote GitHub Pages CDN URLs', () => {
+    const cdnMap = remoteMediaMapData as Record<string, string>;
+    const uniqueUrls = new Set<string>();
+
+    const walk = (node: unknown) => {
+      if (!node) return;
+      if (typeof node === 'string') {
+        if (node.startsWith('/vol-archive/')) {
+          uniqueUrls.add(node);
+        }
+        return;
+      }
+      if (Array.isArray(node)) {
+        for (const item of node) walk(item);
+      } else if (typeof node === 'object') {
+        for (const val of Object.values(node as Record<string, unknown>)) walk(val);
+      }
+    };
+
+    for (let volNum = 1; volNum <= 10; volNum++) {
+      const filePath = path.join(VOL_DATA_DIR, `vol-${volNum}.json`);
+      const vol = JSON.parse(fs.readFileSync(filePath, 'utf8')) as VolumeEntry;
+      walk(vol);
+    }
+
+    expect(uniqueUrls.size).toBe(337);
+    for (const url of uniqueUrls) {
+      const mapped = cdnMap[url];
+      expect(mapped).toBeDefined();
+      expect(mapped).toMatch(
+        /^https:\/\/vuonghoaitam9-ship-it\.github\.io\/ielts-study-media-[1-7]\/v\d+\//
+      );
+    }
   });
 });

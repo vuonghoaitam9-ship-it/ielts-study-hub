@@ -337,7 +337,7 @@ export const AudioPlayerBar: React.FC<AudioPlayerBarProps> = ({
       )}
       {src && loadError && (
         <div className="mt-2.5 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-xs text-amber-900">
-          Không tải được đường dẫn audio cục bộ (trên bản Web Online/GitHub Pages, kho gốc <code className="font-mono">F:\IELTS\Vol</code> nằm trên máy cá nhân). Hãy nhấn <strong>Gắn Audio gốc</strong> ở trên hoặc mở <strong>Batch Import Vol 1–10</strong> để chọn file MP3/M4A/MP4 từ máy và phát trực tiếp (lưu vào IndexedDB trình duyệt).
+          Không thể tải file âm thanh từ máy chủ lúc này. Vui lòng kiểm tra kết nối mạng, tải lại trang hoặc dùng nút <strong>Gắn Audio gốc</strong> để nạp file từ máy.
         </div>
       )}
     </div>
